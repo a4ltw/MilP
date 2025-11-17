@@ -1,0 +1,1180 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-11-17",
+    "totalTerms": 120,
+    "categories": ["general", "army", "navy", "airforce"]
+  },
+  "vocabulary": [
+    {
+      "id": "gen001",
+      "chinese": "指揮官",
+      "english": "Commander",
+      "abbreviation": "CDR",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "指揮官下達了作戰命令。",
+        "english": "The commander issued the combat order."
+      }
+    },
+    {
+      "id": "gen002",
+      "chinese": "作戰",
+      "english": "Operation",
+      "abbreviation": "OP",
+      "category": "general",
+      "subcategory": "combat",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "這次作戰任務將於明天執行。",
+        "english": "This operation will be executed tomorrow."
+      }
+    },
+    {
+      "id": "gen003",
+      "chinese": "情報",
+      "english": "Intelligence",
+      "abbreviation": "INTEL",
+      "category": "general",
+      "subcategory": "information",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "情報顯示敵軍正在集結。",
+        "english": "Intelligence indicates enemy forces are gathering."
+      }
+    },
+    {
+      "id": "gen004",
+      "chinese": "後勤",
+      "english": "Logistics",
+      "abbreviation": "LOG",
+      "category": "general",
+      "subcategory": "support",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "後勤支援對作戰成功至關重要。",
+        "english": "Logistics support is crucial for mission success."
+      }
+    },
+    {
+      "id": "gen005",
+      "chinese": "偵察",
+      "english": "Reconnaissance",
+      "abbreviation": "RECON",
+      "category": "general",
+      "subcategory": "information",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "偵察小組已經進入目標區域。",
+        "english": "The reconnaissance team has entered the target area."
+      }
+    },
+    {
+      "id": "gen006",
+      "chinese": "部署",
+      "english": "Deployment",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "部隊已完成戰術部署。",
+        "english": "The troops have completed tactical deployment."
+      }
+    },
+    {
+      "id": "gen007",
+      "chinese": "戰略",
+      "english": "Strategy",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "planning",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "司令部正在制定新的戰略。",
+        "english": "The command is developing a new strategy."
+      }
+    },
+    {
+      "id": "gen008",
+      "chinese": "戰術",
+      "english": "Tactics",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "planning",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "我們需要調整作戰戰術。",
+        "english": "We need to adjust our combat tactics."
+      }
+    },
+    {
+      "id": "gen009",
+      "chinese": "火力支援",
+      "english": "Fire Support",
+      "abbreviation": "FS",
+      "category": "general",
+      "subcategory": "combat",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "請求火力支援，目標座標已發送。",
+        "english": "Requesting fire support, target coordinates transmitted."
+      }
+    },
+    {
+      "id": "gen010",
+      "chinese": "通訊",
+      "english": "Communication",
+      "abbreviation": "COMM",
+      "category": "general",
+      "subcategory": "support",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "保持通訊暢通是關鍵。",
+        "english": "Maintaining clear communication is key."
+      }
+    },
+    {
+      "id": "gen011",
+      "chinese": "上將",
+      "english": "General",
+      "abbreviation": "GEN",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "上將親自視察了前線。",
+        "english": "The general personally inspected the front line."
+      }
+    },
+    {
+      "id": "gen012",
+      "chinese": "中將",
+      "english": "Lieutenant General",
+      "abbreviation": "LTG",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "中將負責指揮整個戰區。",
+        "english": "The lieutenant general commands the entire theater."
+      }
+    },
+    {
+      "id": "gen013",
+      "chinese": "少將",
+      "english": "Major General",
+      "abbreviation": "MG",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "少將擔任師長職務。",
+        "english": "The major general serves as division commander."
+      }
+    },
+    {
+      "id": "gen014",
+      "chinese": "上校",
+      "english": "Colonel",
+      "abbreviation": "COL",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "上校指揮這個團。",
+        "english": "The colonel commands this regiment."
+      }
+    },
+    {
+      "id": "gen015",
+      "chinese": "中校",
+      "english": "Lieutenant Colonel",
+      "abbreviation": "LTC",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "中校擔任副團長。",
+        "english": "The lieutenant colonel serves as deputy commander."
+      }
+    },
+    {
+      "id": "gen016",
+      "chinese": "少校",
+      "english": "Major",
+      "abbreviation": "MAJ",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "少校帶領營級單位。",
+        "english": "The major leads a battalion-level unit."
+      }
+    },
+    {
+      "id": "gen017",
+      "chinese": "上尉",
+      "english": "Captain",
+      "abbreviation": "CPT",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "上尉是連隊指揮官。",
+        "english": "The captain is the company commander."
+      }
+    },
+    {
+      "id": "gen018",
+      "chinese": "中尉",
+      "english": "First Lieutenant",
+      "abbreviation": "1LT",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "中尉擔任排長。",
+        "english": "The first lieutenant serves as platoon leader."
+      }
+    },
+    {
+      "id": "gen019",
+      "chinese": "少尉",
+      "english": "Second Lieutenant",
+      "abbreviation": "2LT",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "少尉剛從軍校畢業。",
+        "english": "The second lieutenant just graduated from military academy."
+      }
+    },
+    {
+      "id": "gen020",
+      "chinese": "士官長",
+      "english": "Sergeant Major",
+      "abbreviation": "SGM",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "士官長負責士兵訓練。",
+        "english": "The sergeant major is responsible for soldier training."
+      }
+    },
+    {
+      "id": "army001",
+      "chinese": "步兵",
+      "english": "Infantry",
+      "abbreviation": "INF",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "步兵是陸軍的基本兵種。",
+        "english": "Infantry is the basic branch of the army."
+      }
+    },
+    {
+      "id": "army002",
+      "chinese": "裝甲部隊",
+      "english": "Armored Forces",
+      "abbreviation": "ARM",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "裝甲部隊正在推進。",
+        "english": "The armored forces are advancing."
+      }
+    },
+    {
+      "id": "army003",
+      "chinese": "坦克",
+      "english": "Tank",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "主力坦克已經就位。",
+        "english": "The main battle tanks are in position."
+      }
+    },
+    {
+      "id": "army004",
+      "chinese": "砲兵",
+      "english": "Artillery",
+      "abbreviation": "ART",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "砲兵提供遠程火力支援。",
+        "english": "Artillery provides long-range fire support."
+      }
+    },
+    {
+      "id": "army005",
+      "chinese": "榴彈砲",
+      "english": "Howitzer",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "155毫米榴彈砲已準備射擊。",
+        "english": "The 155mm howitzer is ready to fire."
+      }
+    },
+    {
+      "id": "army006",
+      "chinese": "迫擊砲",
+      "english": "Mortar",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "迫擊砲小組正在設置陣地。",
+        "english": "The mortar team is setting up positions."
+      }
+    },
+    {
+      "id": "army007",
+      "chinese": "機槍",
+      "english": "Machine Gun",
+      "abbreviation": "MG",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "重機槍提供壓制火力。",
+        "english": "The heavy machine gun provides suppressive fire."
+      }
+    },
+    {
+      "id": "army008",
+      "chinese": "步槍",
+      "english": "Rifle",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "每名士兵都配備突擊步槍。",
+        "english": "Each soldier is equipped with an assault rifle."
+      }
+    },
+    {
+      "id": "army009",
+      "chinese": "手榴彈",
+      "english": "Grenade",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "投擲手榴彈後立即尋找掩護。",
+        "english": "Take cover immediately after throwing the grenade."
+      }
+    },
+    {
+      "id": "army010",
+      "chinese": "反坦克飛彈",
+      "english": "Anti-Tank Missile",
+      "abbreviation": "ATM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反坦克飛彈已鎖定目標。",
+        "english": "The anti-tank missile has locked on target."
+      }
+    },
+    {
+      "id": "army011",
+      "chinese": "裝甲運兵車",
+      "english": "Armored Personnel Carrier",
+      "abbreviation": "APC",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "步兵乘坐裝甲運兵車前進。",
+        "english": "Infantry advances in armored personnel carriers."
+      }
+    },
+    {
+      "id": "army012",
+      "english": "Reconnaissance Vehicle",
+      "chinese": "偵察車",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "偵察車先行探查路況。",
+        "english": "The reconnaissance vehicle scouts ahead."
+      }
+    },
+    {
+      "id": "army013",
+      "chinese": "防空飛彈",
+      "english": "Air Defense Missile",
+      "abbreviation": "ADM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "防空飛彈系統已啟動。",
+        "english": "The air defense missile system is activated."
+      }
+    },
+    {
+      "id": "army014",
+      "chinese": "陣地",
+      "english": "Position",
+      "abbreviation": "POS",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "部隊已佔領戰術陣地。",
+        "english": "Troops have occupied tactical positions."
+      }
+    },
+    {
+      "id": "army015",
+      "chinese": "掩體",
+      "english": "Bunker",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "士兵們躲進掩體。",
+        "english": "Soldiers took cover in the bunker."
+      }
+    },
+    {
+      "id": "army016",
+      "chinese": "戰壕",
+      "english": "Trench",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "挖掘戰壕以防禦敵軍。",
+        "english": "Dig trenches to defend against enemy forces."
+      }
+    },
+    {
+      "id": "army017",
+      "chinese": "巡邏",
+      "english": "Patrol",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "巡邏隊每兩小時報告一次。",
+        "english": "The patrol reports every two hours."
+      }
+    },
+    {
+      "id": "army018",
+      "chinese": "埋伏",
+      "english": "Ambush",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "在峽谷設置埋伏。",
+        "english": "Set up an ambush in the canyon."
+      }
+    },
+    {
+      "id": "army019",
+      "chinese": "突襲",
+      "english": "Raid",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "特種部隊執行突襲任務。",
+        "english": "Special forces conduct a raid operation."
+      }
+    },
+    {
+      "id": "army020",
+      "chinese": "撤退",
+      "english": "Withdrawal",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "有序撤退到第二防線。",
+        "english": "Conduct orderly withdrawal to the second line."
+      }
+    },
+    {
+      "id": "navy001",
+      "chinese": "航空母艦",
+      "english": "Aircraft Carrier",
+      "abbreviation": "CV",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航空母艦戰鬥群正在部署。",
+        "english": "The aircraft carrier battle group is deploying."
+      }
+    },
+    {
+      "id": "navy002",
+      "chinese": "驅逐艦",
+      "english": "Destroyer",
+      "abbreviation": "DD",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "驅逐艦擔任護航任務。",
+        "english": "The destroyer serves as escort."
+      }
+    },
+    {
+      "id": "navy003",
+      "chinese": "巡洋艦",
+      "english": "Cruiser",
+      "abbreviation": "CG",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "巡洋艦配備先進防空系統。",
+        "english": "The cruiser is equipped with advanced air defense systems."
+      }
+    },
+    {
+      "id": "navy004",
+      "chinese": "護衛艦",
+      "english": "Frigate",
+      "abbreviation": "FF",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "護衛艦執行反潛任務。",
+        "english": "The frigate conducts anti-submarine operations."
+      }
+    },
+    {
+      "id": "navy005",
+      "chinese": "潛艇",
+      "english": "Submarine",
+      "abbreviation": "SS",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "潛艇已下潛至作戰深度。",
+        "english": "The submarine has submerged to operational depth."
+      }
+    },
+    {
+      "id": "navy006",
+      "chinese": "核子潛艇",
+      "english": "Nuclear Submarine",
+      "abbreviation": "SSN",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "核子潛艇可長時間水下作戰。",
+        "english": "Nuclear submarines can operate underwater for extended periods."
+      }
+    },
+    {
+      "id": "navy007",
+      "chinese": "兩棲突擊艦",
+      "english": "Amphibious Assault Ship",
+      "abbreviation": "LHA",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "兩棲突擊艦運載陸戰隊。",
+        "english": "The amphibious assault ship carries Marines."
+      }
+    },
+    {
+      "id": "navy008",
+      "chinese": "魚雷",
+      "english": "Torpedo",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "潛艇發射魚雷攻擊目標。",
+        "english": "The submarine fires torpedoes at the target."
+      }
+    },
+    {
+      "id": "navy009",
+      "chinese": "飛彈巡防艦",
+      "english": "Guided Missile Destroyer",
+      "abbreviation": "DDG",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "飛彈巡防艦攔截來襲飛彈。",
+        "english": "The guided missile destroyer intercepts incoming missiles."
+      }
+    },
+    {
+      "id": "navy010",
+      "chinese": "艦砲",
+      "english": "Naval Gun",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "艦砲對岸轟擊。",
+        "english": "Naval guns bombard the shore."
+      }
+    },
+    {
+      "id": "navy011",
+      "chinese": "反艦飛彈",
+      "english": "Anti-Ship Missile",
+      "abbreviation": "ASM",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "發射反艦飛彈攻擊敵艦。",
+        "english": "Launch anti-ship missiles against enemy vessels."
+      }
+    },
+    {
+      "id": "navy012",
+      "chinese": "聲納",
+      "english": "Sonar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "聲納偵測到水下目標。",
+        "english": "Sonar detected underwater targets."
+      }
+    },
+    {
+      "id": "navy013",
+      "chinese": "雷達",
+      "english": "Radar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "雷達追蹤敵方艦隊。",
+        "english": "Radar tracks the enemy fleet."
+      }
+    },
+    {
+      "id": "navy014",
+      "chinese": "艦載機",
+      "english": "Carrier-Based Aircraft",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "艦載機準備起飛。",
+        "english": "Carrier-based aircraft are preparing for takeoff."
+      }
+    },
+    {
+      "id": "navy015",
+      "chinese": "艦隊",
+      "english": "Fleet",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "第七艦隊正在海域巡邏。",
+        "english": "The Seventh Fleet is patrolling the waters."
+      }
+    },
+    {
+      "id": "navy016",
+      "chinese": "錨定",
+      "english": "Anchoring",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "艦艇在港口錨定。",
+        "english": "The vessel is anchoring in the harbor."
+      }
+    },
+    {
+      "id": "navy017",
+      "chinese": "航行",
+      "english": "Navigation",
+      "abbreviation": "NAV",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航行計劃已經提交。",
+        "english": "The navigation plan has been submitted."
+      }
+    },
+    {
+      "id": "navy018",
+      "chinese": "海軍陸戰隊",
+      "english": "Marine Corps",
+      "abbreviation": "USMC",
+      "category": "navy",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "海軍陸戰隊執行兩棲登陸。",
+        "english": "The Marine Corps conducts amphibious landing."
+      }
+    },
+    {
+      "id": "navy019",
+      "chinese": "兩棲作戰",
+      "english": "Amphibious Operation",
+      "abbreviation": "AMPH OP",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "兩棲作戰需要海空協同。",
+        "english": "Amphibious operations require naval-air coordination."
+      }
+    },
+    {
+      "id": "navy020",
+      "chinese": "海域封鎖",
+      "english": "Naval Blockade",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "實施海域封鎖阻止補給。",
+        "english": "Implement naval blockade to prevent resupply."
+      }
+    },
+    {
+      "id": "air001",
+      "chinese": "戰鬥機",
+      "english": "Fighter Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "戰鬥機正在執行巡邏任務。",
+        "english": "Fighter aircraft are conducting patrol missions."
+      }
+    },
+    {
+      "id": "air002",
+      "chinese": "轟炸機",
+      "english": "Bomber",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "戰略轟炸機已經起飛。",
+        "english": "Strategic bombers have taken off."
+      }
+    },
+    {
+      "id": "air003",
+      "chinese": "運輸機",
+      "english": "Transport Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "運輸機空投補給物資。",
+        "english": "Transport aircraft airdrop supplies."
+      }
+    },
+    {
+      "id": "air004",
+      "chinese": "偵察機",
+      "english": "Reconnaissance Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "偵察機拍攝敵軍陣地。",
+        "english": "Reconnaissance aircraft photograph enemy positions."
+      }
+    },
+    {
+      "id": "air005",
+      "chinese": "直升機",
+      "english": "Helicopter",
+      "abbreviation": "HELO",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "攻擊直升機提供近距支援。",
+        "english": "Attack helicopters provide close air support."
+      }
+    },
+    {
+      "id": "air006",
+      "chinese": "無人機",
+      "english": "Unmanned Aerial Vehicle",
+      "abbreviation": "UAV",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "無人機進行監視任務。",
+        "english": "UAVs conduct surveillance missions."
+      }
+    },
+    {
+      "id": "air007",
+      "chinese": "空對空飛彈",
+      "english": "Air-to-Air Missile",
+      "abbreviation": "AAM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰機發射空對空飛彈。",
+        "english": "The fighter fires air-to-air missiles."
+      }
+    },
+    {
+      "id": "air008",
+      "chinese": "空對地飛彈",
+      "english": "Air-to-Ground Missile",
+      "abbreviation": "AGM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "使用空對地飛彈打擊目標。",
+        "english": "Strike targets with air-to-ground missiles."
+      }
+    },
+    {
+      "id": "air009",
+      "chinese": "精確導引炸彈",
+      "english": "Precision-Guided Munition",
+      "abbreviation": "PGM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "投放精確導引炸彈摧毀目標。",
+        "english": "Drop precision-guided munitions to destroy targets."
+      }
+    },
+    {
+      "id": "air010",
+      "chinese": "起飛",
+      "english": "Takeoff",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "飛機獲准起飛。",
+        "english": "Aircraft cleared for takeoff."
+      }
+    },
+    {
+      "id": "air011",
+      "chinese": "降落",
+      "english": "Landing",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "飛機準備降落。",
+        "english": "Aircraft preparing for landing."
+      }
+    },
+    {
+      "id": "air012",
+      "chinese": "空中加油",
+      "english": "Aerial Refueling",
+      "abbreviation": "AAR",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰機正在進行空中加油。",
+        "english": "Fighters are conducting aerial refueling."
+      }
+    },
+    {
+      "id": "air013",
+      "chinese": "編隊飛行",
+      "english": "Formation Flight",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "保持編隊飛行。",
+        "english": "Maintain formation flight."
+      }
+    },
+    {
+      "id": "air014",
+      "chinese": "空中優勢",
+      "english": "Air Superiority",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "奪取空中優勢至關重要。",
+        "english": "Gaining air superiority is crucial."
+      }
+    },
+    {
+      "id": "air015",
+      "chinese": "空中支援",
+      "english": "Air Support",
+      "abbreviation": "AS",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "請求空中支援。",
+        "english": "Requesting air support."
+      }
+    },
+    {
+      "id": "air016",
+      "chinese": "近距空中支援",
+      "english": "Close Air Support",
+      "abbreviation": "CAS",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "近距空中支援已到達戰區。",
+        "english": "Close air support has arrived in the combat zone."
+      }
+    },
+    {
+      "id": "air017",
+      "chinese": "空中攔截",
+      "english": "Air Intercept",
+      "abbreviation": "AI",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "執行空中攔截任務。",
+        "english": "Conduct air intercept mission."
+      }
+    },
+    {
+      "id": "air018",
+      "chinese": "飛行員",
+      "english": "Pilot",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "飛行員準備執行任務。",
+        "english": "Pilots prepare for the mission."
+      }
+    },
+    {
+      "id": "air019",
+      "chinese": "機組人員",
+      "english": "Aircrew",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機組人員完成起飛前檢查。",
+        "english": "Aircrew complete pre-flight checks."
+      }
+    },
+    {
+      "id": "air020",
+      "chinese": "跑道",
+      "english": "Runway",
+      "abbreviation": "RWY",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "跑道已清空可以使用。",
+        "english": "The runway is clear and available."
+      }
+    },
+    {
+      "id": "gen021",
+      "chinese": "集結",
+      "english": "Assembly",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "部隊在指定地點集結。",
+        "english": "Troops assemble at the designated location."
+      }
+    },
+    {
+      "id": "gen022",
+      "chinese": "增援",
+      "english": "Reinforcement",
+      "abbreviation": "REINF",
+      "category": "general",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "增援部隊即將抵達。",
+        "english": "Reinforcements will arrive shortly."
+      }
+    },
+    {
+      "id": "gen023",
+      "chinese": "防禦",
+      "english": "Defense",
+      "abbreviation": "DEF",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "建立防禦陣地。",
+        "english": "Establish defensive positions."
+      }
+    },
+    {
+      "id": "gen024",
+      "chinese": "進攻",
+      "english": "Offensive",
+      "abbreviation": "OFF",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "發起進攻行動。",
+        "english": "Launch offensive operations."
+      }
+    },
+    {
+      "id": "gen025",
+      "chinese": "目標",
+      "english": "Target",
+      "abbreviation": "TGT",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "鎖定目標並準備攻擊。",
+        "english": "Lock on target and prepare to engage."
+      }
+    },
+    {
+      "id": "gen026",
+      "chinese": "掩護",
+      "english": "Cover",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "提供掩護火力。",
+        "english": "Provide covering fire."
+      }
+    },
+    {
+      "id": "gen027",
+      "chinese": "撤離",
+      "english": "Evacuation",
+      "abbreviation": "EVAC",
+      "category": "general",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "立即撤離該區域。",
+        "english": "Evacuate the area immediately."
+      }
+    },
+    {
+      "id": "gen028",
+      "chinese": "醫療後送",
+      "english": "Medical Evacuation",
+      "abbreviation": "MEDEVAC",
+      "category": "general",
+      "subcategory": "support",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "請求醫療後送直升機。",
+        "english": "Request medical evacuation helicopter."
+      }
+    },
+    {
+      "id": "gen029",
+      "chinese": "傷亡",
+      "english": "Casualties",
+      "abbreviation": "CAS",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "報告傷亡情況。",
+        "english": "Report casualties."
+      }
+    },
+    {
+      "id": "gen030",
+      "chinese": "彈藥",
+      "english": "Ammunition",
+      "abbreviation": "AMMO",
+      "category": "general",
+      "subcategory": "supply",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "彈藥即將耗盡。",
+        "english": "Ammunition is running low."
+      }
+    }
+  ]
+}
