@@ -95,35 +95,89 @@ class VocabApp {
     }
 
     handleKeyboardShortcut(e) {
-        // Only handle shortcuts when flashcard container is visible
+        // Check if flashcard container is visible
         const flashcardContainer = document.getElementById('flashcard-container');
-        if (!flashcardContainer || flashcardContainer.style.display === 'none') {
+        const isFlashcardVisible = flashcardContainer && flashcardContainer.style.display !== 'none';
+
+        // Check if quiz container is visible
+        const quizContainer = document.getElementById('quiz-container');
+        const isQuizVisible = quizContainer && quizContainer.style.display !== 'none';
+
+        // If neither is visible, don't handle shortcuts
+        if (!isFlashcardVisible && !isQuizVisible) {
             return;
         }
 
-        // Ignore if user is typing in an input field
+        // Ignore if user is typing in an input field (except for quiz mode)
         if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
+            // In quiz mode, allow space for submit/next
+            if (!isQuizVisible || (e.key !== ' ' && e.key !== 'Enter')) {
+                return;
+            }
+        }
+
+        // Handle flashcard shortcuts
+        if (isFlashcardVisible) {
+            switch(e.key) {
+                case '1':
+                    e.preventDefault();
+                    this.markNeedReview();
+                    break;
+                case '2':
+                    e.preventDefault();
+                    this.nextCard();
+                    break;
+                case '3':
+                    e.preventDefault();
+                    this.markMastered();
+                    break;
+                case ' ':
+                case 'Enter':
+                    e.preventDefault();
+                    this.flipCard();
+                    break;
+            }
+        }
+
+        // Handle quiz shortcuts
+        if (isQuizVisible) {
+            const submitBtn = document.getElementById('submit-answer');
+            const nextBtn = document.getElementById('next-question');
+            const isSubmitVisible = submitBtn && submitBtn.style.display !== 'none';
+            const isNextVisible = nextBtn && nextBtn.style.display !== 'none';
+
+            switch(e.key) {
+                case '1':
+                case '2':
+                case '3':
+                case '4':
+                    e.preventDefault();
+                    this.selectQuizOption(parseInt(e.key) - 1);
+                    break;
+                case ' ':
+                    e.preventDefault();
+                    if (isSubmitVisible) {
+                        this.submitAnswer();
+                    } else if (isNextVisible) {
+                        this.nextQuestion();
+                    }
+                    break;
+            }
+        }
+    }
+
+    selectQuizOption(index) {
+        // Only for multiple choice
+        if (this.quizType !== 'multiple') {
             return;
         }
 
-        switch(e.key) {
-            case '1':
-                e.preventDefault();
-                this.markNeedReview();
-                break;
-            case '2':
-                e.preventDefault();
-                this.nextCard();
-                break;
-            case '3':
-                e.preventDefault();
-                this.markMastered();
-                break;
-            case ' ':
-            case 'Enter':
-                e.preventDefault();
-                this.flipCard();
-                break;
+        const options = document.querySelectorAll('.quiz-option');
+        if (index >= 0 && index < options.length) {
+            // Remove previous selection
+            options.forEach(opt => opt.classList.remove('selected'));
+            // Select the option
+            options[index].classList.add('selected');
         }
     }
 
@@ -450,7 +504,8 @@ class VocabApp {
 
         optionsContainer.innerHTML = allOptions.map((option, index) => `
             <div class="quiz-option" data-option="${option}">
-                ${String.fromCharCode(65 + index)}. ${option}
+                <span class="option-letter">${String.fromCharCode(65 + index)}</span>. ${option}
+                <span class="shortcut-key">[${index + 1}]</span>
             </div>
         `).join('');
 

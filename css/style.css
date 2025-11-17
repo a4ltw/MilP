@@ -576,6 +576,14 @@ select:focus {
     cursor: pointer;
     transition: all 0.3s;
     background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quiz-option .option-letter {
+    font-weight: bold;
+    margin-right: 5px;
 }
 
 .quiz-option:hover {
@@ -589,16 +597,28 @@ select:focus {
     border-color: var(--secondary-color);
 }
 
+.quiz-option.selected .shortcut-key {
+    background: rgba(255, 255, 255, 0.25);
+}
+
 .quiz-option.correct {
     background: var(--success-color);
     color: white;
     border-color: var(--success-color);
 }
 
+.quiz-option.correct .shortcut-key {
+    background: rgba(255, 255, 255, 0.25);
+}
+
 .quiz-option.wrong {
     background: var(--danger-color);
     color: white;
     border-color: var(--danger-color);
+}
+
+.quiz-option.wrong .shortcut-key {
+    background: rgba(255, 255, 255, 0.25);
 }
 
 .quiz-option.disabled {
