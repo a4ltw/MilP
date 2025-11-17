@@ -1,6 +1,8 @@
 # 🚀 GitHub Pages 快速部署清單
 
-## ✅ 3 步驟完成部署
+## ✅ 使用 GitHub Actions 自動部署（推薦）
+
+我已經為您配置好 GitHub Actions workflow！只需以下 3 步驟：
 
 ### 第 1 步：前往 GitHub 倉庫設置
 ```
@@ -9,20 +11,34 @@
 3. 左側選單找到並點擊 "Pages"
 ```
 
-### 第 2 步：配置 Pages 來源
+### 第 2 步：配置 Pages 來源為 GitHub Actions
 ```
 在 "Build and deployment" 區域：
+- Source: 選擇 "GitHub Actions" (不是 Deploy from a branch)
+- 保存設置
+```
+
+### 第 3 步：查看部署進度
+```
+1. 點擊倉庫頂部的 "Actions" 標籤
+2. 查看 "Deploy to GitHub Pages" workflow 運行狀態
+3. 等待約 1-2 分鐘，完成後會顯示綠色勾號
+4. 回到 Settings > Pages 查看網站 URL
+```
+
+---
+
+## 📌 備選方案：手動配置分支部署
+
+如果您不想使用 GitHub Actions，也可以手動設置：
+
+### 步驟
+```
+在 Settings > Pages > Build and deployment：
 - Source: Deploy from a branch
 - Branch: claude/military-vocab-learning-01SF7YSmsicxQi2knzADGRmH
 - Folder: / (root)
 - 點擊 Save
-```
-
-### 第 3 步：等待部署完成
-```
-- 約等待 1-2 分鐘
-- 頁面會顯示：Your site is live at https://a4ltw.github.io/MilP/
-- 點擊連結測試網站
 ```
 
 ---
