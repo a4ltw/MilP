@@ -1,9 +1,14 @@
 {
   "metadata": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "lastUpdated": "2025-11-17",
-    "totalTerms": 120,
-    "categories": ["general", "army", "navy", "airforce"]
+    "totalTerms": 567,
+    "categories": [
+      "general",
+      "army",
+      "navy",
+      "airforce"
+    ]
   },
   "vocabulary": [
     {
@@ -1174,6 +1179,6207 @@
       "examples": {
         "chinese": "彈藥即將耗盡。",
         "english": "Ammunition is running low."
+      }
+    },
+    {
+      "id": "gen031",
+      "chinese": "戰鬥",
+      "english": "Combat",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "combat",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "戰鬥在軍事作戰中很重要。",
+        "english": "Combat is important in military operations."
+      }
+    },
+    {
+      "id": "gen032",
+      "chinese": "戰役",
+      "english": "Campaign",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "combat",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "戰役在軍事作戰中很重要。",
+        "english": "Campaign is important in military operations."
+      }
+    },
+    {
+      "id": "gen033",
+      "chinese": "戰爭",
+      "english": "War",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "combat",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "戰爭在軍事作戰中很重要。",
+        "english": "War is important in military operations."
+      }
+    },
+    {
+      "id": "gen034",
+      "chinese": "和平",
+      "english": "Peace",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "和平在軍事作戰中很重要。",
+        "english": "Peace is important in military operations."
+      }
+    },
+    {
+      "id": "gen035",
+      "chinese": "停火",
+      "english": "Ceasefire",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "停火在軍事作戰中很重要。",
+        "english": "Ceasefire is important in military operations."
+      }
+    },
+    {
+      "id": "gen036",
+      "chinese": "休戰",
+      "english": "Truce",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "休戰在軍事作戰中很重要。",
+        "english": "Truce is important in military operations."
+      }
+    },
+    {
+      "id": "gen037",
+      "chinese": "投降",
+      "english": "Surrender",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "action",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "投降在軍事作戰中很重要。",
+        "english": "Surrender is important in military operations."
+      }
+    },
+    {
+      "id": "gen038",
+      "chinese": "撤退",
+      "english": "Retreat",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "action",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "撤退在軍事作戰中很重要。",
+        "english": "Retreat is important in military operations."
+      }
+    },
+    {
+      "id": "gen039",
+      "chinese": "前進",
+      "english": "Advance",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "action",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "前進在軍事作戰中很重要。",
+        "english": "Advance is important in military operations."
+      }
+    },
+    {
+      "id": "gen040",
+      "chinese": "佔領",
+      "english": "Occupy",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "action",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "佔領在軍事作戰中很重要。",
+        "english": "Occupy is important in military operations."
+      }
+    },
+    {
+      "id": "gen041",
+      "chinese": "准將",
+      "english": "Brigadier General",
+      "abbreviation": "BG",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "准將在軍事作戰中很重要。",
+        "english": "Brigadier General is important in military operations."
+      }
+    },
+    {
+      "id": "gen042",
+      "chinese": "軍士長",
+      "english": "Master Sergeant",
+      "abbreviation": "MSG",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "軍士長在軍事作戰中很重要。",
+        "english": "Master Sergeant is important in military operations."
+      }
+    },
+    {
+      "id": "gen043",
+      "chinese": "士官",
+      "english": "Non-commissioned Officer",
+      "abbreviation": "NCO",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "士官在軍事作戰中很重要。",
+        "english": "Non-commissioned Officer is important in military operations."
+      }
+    },
+    {
+      "id": "gen044",
+      "chinese": "士兵",
+      "english": "Soldier",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "士兵在軍事作戰中很重要。",
+        "english": "Soldier is important in military operations."
+      }
+    },
+    {
+      "id": "gen045",
+      "chinese": "新兵",
+      "english": "Recruit",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "新兵在軍事作戰中很重要。",
+        "english": "Recruit is important in military operations."
+      }
+    },
+    {
+      "id": "gen046",
+      "chinese": "老兵",
+      "english": "Veteran",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "老兵在軍事作戰中很重要。",
+        "english": "Veteran is important in military operations."
+      }
+    },
+    {
+      "id": "gen047",
+      "chinese": "預備役",
+      "english": "Reserve",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "預備役在軍事作戰中很重要。",
+        "english": "Reserve is important in military operations."
+      }
+    },
+    {
+      "id": "gen048",
+      "chinese": "現役",
+      "english": "Active Duty",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "現役在軍事作戰中很重要。",
+        "english": "Active Duty is important in military operations."
+      }
+    },
+    {
+      "id": "gen049",
+      "chinese": "軍隊",
+      "english": "Military",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "軍隊在軍事作戰中很重要。",
+        "english": "Military is important in military operations."
+      }
+    },
+    {
+      "id": "gen050",
+      "chinese": "部隊",
+      "english": "Troops",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "部隊在軍事作戰中很重要。",
+        "english": "Troops is important in military operations."
+      }
+    },
+    {
+      "id": "gen051",
+      "chinese": "軍團",
+      "english": "Corps",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "軍團在軍事作戰中很重要。",
+        "english": "Corps is important in military operations."
+      }
+    },
+    {
+      "id": "gen052",
+      "chinese": "師",
+      "english": "Division",
+      "abbreviation": "DIV",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "師在軍事作戰中很重要。",
+        "english": "Division is important in military operations."
+      }
+    },
+    {
+      "id": "gen053",
+      "chinese": "旅",
+      "english": "Brigade",
+      "abbreviation": "BDE",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "旅在軍事作戰中很重要。",
+        "english": "Brigade is important in military operations."
+      }
+    },
+    {
+      "id": "gen054",
+      "chinese": "團",
+      "english": "Regiment",
+      "abbreviation": "REG",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "團在軍事作戰中很重要。",
+        "english": "Regiment is important in military operations."
+      }
+    },
+    {
+      "id": "gen055",
+      "chinese": "營",
+      "english": "Battalion",
+      "abbreviation": "BN",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "營在軍事作戰中很重要。",
+        "english": "Battalion is important in military operations."
+      }
+    },
+    {
+      "id": "gen056",
+      "chinese": "連",
+      "english": "Company",
+      "abbreviation": "CO",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "連在軍事作戰中很重要。",
+        "english": "Company is important in military operations."
+      }
+    },
+    {
+      "id": "gen057",
+      "chinese": "排",
+      "english": "Platoon",
+      "abbreviation": "PLT",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "排在軍事作戰中很重要。",
+        "english": "Platoon is important in military operations."
+      }
+    },
+    {
+      "id": "gen058",
+      "chinese": "班",
+      "english": "Squad",
+      "abbreviation": "SQ",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "班在軍事作戰中很重要。",
+        "english": "Squad is important in military operations."
+      }
+    },
+    {
+      "id": "gen059",
+      "chinese": "小隊",
+      "english": "Team",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "小隊在軍事作戰中很重要。",
+        "english": "Team is important in military operations."
+      }
+    },
+    {
+      "id": "gen060",
+      "chinese": "分隊",
+      "english": "Section",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "organization",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "分隊在軍事作戰中很重要。",
+        "english": "Section is important in military operations."
+      }
+    },
+    {
+      "id": "gen061",
+      "chinese": "進攻",
+      "english": "Offensive",
+      "abbreviation": "OFF",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "進攻在軍事作戰中很重要。",
+        "english": "Offensive is important in military operations."
+      }
+    },
+    {
+      "id": "gen062",
+      "chinese": "防禦",
+      "english": "Defensive",
+      "abbreviation": "DEF",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "防禦在軍事作戰中很重要。",
+        "english": "Defensive is important in military operations."
+      }
+    },
+    {
+      "id": "gen063",
+      "chinese": "反攻",
+      "english": "Counterattack",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反攻在軍事作戰中很重要。",
+        "english": "Counterattack is important in military operations."
+      }
+    },
+    {
+      "id": "gen064",
+      "chinese": "突襲",
+      "english": "Assault",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "突襲在軍事作戰中很重要。",
+        "english": "Assault is important in military operations."
+      }
+    },
+    {
+      "id": "gen065",
+      "chinese": "圍攻",
+      "english": "Siege",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "圍攻在軍事作戰中很重要。",
+        "english": "Siege is important in military operations."
+      }
+    },
+    {
+      "id": "gen066",
+      "chinese": "封鎖",
+      "english": "Blockade",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "封鎖在軍事作戰中很重要。",
+        "english": "Blockade is important in military operations."
+      }
+    },
+    {
+      "id": "gen067",
+      "chinese": "包圍",
+      "english": "Encirclement",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "包圍在軍事作戰中很重要。",
+        "english": "Encirclement is important in military operations."
+      }
+    },
+    {
+      "id": "gen068",
+      "chinese": "突破",
+      "english": "Breakthrough",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "突破在軍事作戰中很重要。",
+        "english": "Breakthrough is important in military operations."
+      }
+    },
+    {
+      "id": "gen069",
+      "chinese": "側翼",
+      "english": "Flank",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "側翼在軍事作戰中很重要。",
+        "english": "Flank is important in military operations."
+      }
+    },
+    {
+      "id": "gen070",
+      "chinese": "前線",
+      "english": "Frontline",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "前線在軍事作戰中很重要。",
+        "english": "Frontline is important in military operations."
+      }
+    },
+    {
+      "id": "gen071",
+      "chinese": "後方",
+      "english": "Rear",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "後方在軍事作戰中很重要。",
+        "english": "Rear is important in military operations."
+      }
+    },
+    {
+      "id": "gen072",
+      "chinese": "據點",
+      "english": "Stronghold",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "position",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "據點在軍事作戰中很重要。",
+        "english": "Stronghold is important in military operations."
+      }
+    },
+    {
+      "id": "gen073",
+      "chinese": "陣線",
+      "english": "Front",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "陣線在軍事作戰中很重要。",
+        "english": "Front is important in military operations."
+      }
+    },
+    {
+      "id": "gen074",
+      "chinese": "武器",
+      "english": "Weapon",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "武器在軍事作戰中很重要。",
+        "english": "Weapon is important in military operations."
+      }
+    },
+    {
+      "id": "gen075",
+      "chinese": "裝備",
+      "english": "Equipment",
+      "abbreviation": "EQUIP",
+      "category": "general",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "裝備在軍事作戰中很重要。",
+        "english": "Equipment is important in military operations."
+      }
+    },
+    {
+      "id": "gen076",
+      "chinese": "彈藥",
+      "english": "Ammunition",
+      "abbreviation": "AMMO",
+      "category": "general",
+      "subcategory": "supply",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "彈藥在軍事作戰中很重要。",
+        "english": "Ammunition is important in military operations."
+      }
+    },
+    {
+      "id": "gen077",
+      "chinese": "補給",
+      "english": "Supply",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "supply",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "補給在軍事作戰中很重要。",
+        "english": "Supply is important in military operations."
+      }
+    },
+    {
+      "id": "gen078",
+      "chinese": "燃料",
+      "english": "Fuel",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "supply",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "燃料在軍事作戰中很重要。",
+        "english": "Fuel is important in military operations."
+      }
+    },
+    {
+      "id": "gen079",
+      "chinese": "糧食",
+      "english": "Rations",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "supply",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "糧食在軍事作戰中很重要。",
+        "english": "Rations is important in military operations."
+      }
+    },
+    {
+      "id": "gen080",
+      "chinese": "醫療",
+      "english": "Medical",
+      "abbreviation": "MED",
+      "category": "general",
+      "subcategory": "support",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "醫療在軍事作戰中很重要。",
+        "english": "Medical is important in military operations."
+      }
+    },
+    {
+      "id": "gen081",
+      "chinese": "維修",
+      "english": "Maintenance",
+      "abbreviation": "MAINT",
+      "category": "general",
+      "subcategory": "support",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "維修在軍事作戰中很重要。",
+        "english": "Maintenance is important in military operations."
+      }
+    },
+    {
+      "id": "gen082",
+      "chinese": "運輸",
+      "english": "Transport",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "support",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "運輸在軍事作戰中很重要。",
+        "english": "Transport is important in military operations."
+      }
+    },
+    {
+      "id": "gen083",
+      "chinese": "通訊",
+      "english": "Communication",
+      "abbreviation": "COMM",
+      "category": "general",
+      "subcategory": "support",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "通訊在軍事作戰中很重要。",
+        "english": "Communication is important in military operations."
+      }
+    },
+    {
+      "id": "gen084",
+      "chinese": "無線電",
+      "english": "Radio",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "無線電在軍事作戰中很重要。",
+        "english": "Radio is important in military operations."
+      }
+    },
+    {
+      "id": "gen085",
+      "chinese": "訊號",
+      "english": "Signal",
+      "abbreviation": "SIG",
+      "category": "general",
+      "subcategory": "communication",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "訊號在軍事作戰中很重要。",
+        "english": "Signal is important in military operations."
+      }
+    },
+    {
+      "id": "gen086",
+      "chinese": "密碼",
+      "english": "Code",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "communication",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "密碼在軍事作戰中很重要。",
+        "english": "Code is important in military operations."
+      }
+    },
+    {
+      "id": "gen087",
+      "chinese": "加密",
+      "english": "Encryption",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "communication",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "加密在軍事作戰中很重要。",
+        "english": "Encryption is important in military operations."
+      }
+    },
+    {
+      "id": "gen088",
+      "chinese": "監視",
+      "english": "Surveillance",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "information",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "監視在軍事作戰中很重要。",
+        "english": "Surveillance is important in military operations."
+      }
+    },
+    {
+      "id": "gen089",
+      "chinese": "間諜",
+      "english": "Spy",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "information",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "間諜在軍事作戰中很重要。",
+        "english": "Spy is important in military operations."
+      }
+    },
+    {
+      "id": "gen090",
+      "chinese": "特務",
+      "english": "Agent",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "information",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "特務在軍事作戰中很重要。",
+        "english": "Agent is important in military operations."
+      }
+    },
+    {
+      "id": "gen091",
+      "chinese": "偵查",
+      "english": "Scouting",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "information",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "偵查在軍事作戰中很重要。",
+        "english": "Scouting is important in military operations."
+      }
+    },
+    {
+      "id": "gen092",
+      "chinese": "指揮",
+      "english": "Command",
+      "abbreviation": "CMD",
+      "category": "general",
+      "subcategory": "command",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "指揮在軍事作戰中很重要。",
+        "english": "Command is important in military operations."
+      }
+    },
+    {
+      "id": "gen093",
+      "chinese": "控制",
+      "english": "Control",
+      "abbreviation": "CTRL",
+      "category": "general",
+      "subcategory": "command",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "控制在軍事作戰中很重要。",
+        "english": "Control is important in military operations."
+      }
+    },
+    {
+      "id": "gen094",
+      "chinese": "命令",
+      "english": "Order",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "command",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "命令在軍事作戰中很重要。",
+        "english": "Order is important in military operations."
+      }
+    },
+    {
+      "id": "gen095",
+      "chinese": "指示",
+      "english": "Instruction",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "command",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "指示在軍事作戰中很重要。",
+        "english": "Instruction is important in military operations."
+      }
+    },
+    {
+      "id": "gen096",
+      "chinese": "報告",
+      "english": "Report",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "communication",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "報告在軍事作戰中很重要。",
+        "english": "Report is important in military operations."
+      }
+    },
+    {
+      "id": "gen097",
+      "chinese": "警報",
+      "english": "Alert",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "警報在軍事作戰中很重要。",
+        "english": "Alert is important in military operations."
+      }
+    },
+    {
+      "id": "gen098",
+      "chinese": "警戒",
+      "english": "Watch",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "警戒在軍事作戰中很重要。",
+        "english": "Watch is important in military operations."
+      }
+    },
+    {
+      "id": "gen099",
+      "chinese": "哨兵",
+      "english": "Sentry",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "哨兵在軍事作戰中很重要。",
+        "english": "Sentry is important in military operations."
+      }
+    },
+    {
+      "id": "gen100",
+      "chinese": "崗哨",
+      "english": "Post",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "崗哨在軍事作戰中很重要。",
+        "english": "Post is important in military operations."
+      }
+    },
+    {
+      "id": "gen101",
+      "chinese": "訓練",
+      "english": "Training",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "activity",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "訓練在軍事作戰中很重要。",
+        "english": "Training is important in military operations."
+      }
+    },
+    {
+      "id": "gen102",
+      "chinese": "演習",
+      "english": "Exercise",
+      "abbreviation": "EX",
+      "category": "general",
+      "subcategory": "activity",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "演習在軍事作戰中很重要。",
+        "english": "Exercise is important in military operations."
+      }
+    },
+    {
+      "id": "gen103",
+      "chinese": "操練",
+      "english": "Drill",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "activity",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "操練在軍事作戰中很重要。",
+        "english": "Drill is important in military operations."
+      }
+    },
+    {
+      "id": "gen104",
+      "chinese": "演練",
+      "english": "Practice",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "activity",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "演練在軍事作戰中很重要。",
+        "english": "Practice is important in military operations."
+      }
+    },
+    {
+      "id": "gen105",
+      "chinese": "模擬",
+      "english": "Simulation",
+      "abbreviation": "SIM",
+      "category": "general",
+      "subcategory": "activity",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "模擬在軍事作戰中很重要。",
+        "english": "Simulation is important in military operations."
+      }
+    },
+    {
+      "id": "gen106",
+      "chinese": "任務",
+      "english": "Mission",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "任務在軍事作戰中很重要。",
+        "english": "Mission is important in military operations."
+      }
+    },
+    {
+      "id": "gen107",
+      "chinese": "目標",
+      "english": "Target",
+      "abbreviation": "TGT",
+      "category": "general",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "目標在軍事作戰中很重要。",
+        "english": "Target is important in military operations."
+      }
+    },
+    {
+      "id": "gen108",
+      "chinese": "敵人",
+      "english": "Enemy",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "敵人在軍事作戰中很重要。",
+        "english": "Enemy is important in military operations."
+      }
+    },
+    {
+      "id": "gen109",
+      "chinese": "友軍",
+      "english": "Friendly Forces",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "友軍在軍事作戰中很重要。",
+        "english": "Friendly Forces is important in military operations."
+      }
+    },
+    {
+      "id": "gen110",
+      "chinese": "盟友",
+      "english": "Ally",
+      "abbreviation": "",
+      "category": "general",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "盟友在軍事作戰中很重要。",
+        "english": "Ally is important in military operations."
+      }
+    },
+    {
+      "id": "army021",
+      "chinese": "砲兵",
+      "english": "Artillery",
+      "abbreviation": "ART",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "砲兵是陸軍的重要裝備。",
+        "english": "Artillery is important equipment for the army."
+      }
+    },
+    {
+      "id": "army022",
+      "chinese": "工兵",
+      "english": "Engineer",
+      "abbreviation": "ENG",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "工兵是陸軍的重要裝備。",
+        "english": "Engineer is important equipment for the army."
+      }
+    },
+    {
+      "id": "army023",
+      "chinese": "通信兵",
+      "english": "Signal Corps",
+      "abbreviation": "SIG",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "通信兵是陸軍的重要裝備。",
+        "english": "Signal Corps is important equipment for the army."
+      }
+    },
+    {
+      "id": "army024",
+      "chinese": "醫療兵",
+      "english": "Medic",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "醫療兵是陸軍的重要裝備。",
+        "english": "Medic is important equipment for the army."
+      }
+    },
+    {
+      "id": "army025",
+      "chinese": "狙擊手",
+      "english": "Sniper",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "personnel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "狙擊手是陸軍的重要裝備。",
+        "english": "Sniper is important equipment for the army."
+      }
+    },
+    {
+      "id": "army026",
+      "chinese": "偵察兵",
+      "english": "Scout",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "偵察兵是陸軍的重要裝備。",
+        "english": "Scout is important equipment for the army."
+      }
+    },
+    {
+      "id": "army027",
+      "chinese": "傘兵",
+      "english": "Paratrooper",
+      "abbreviation": "PARA",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "傘兵是陸軍的重要裝備。",
+        "english": "Paratrooper is important equipment for the army."
+      }
+    },
+    {
+      "id": "army028",
+      "chinese": "空降兵",
+      "english": "Airborne",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空降兵是陸軍的重要裝備。",
+        "english": "Airborne is important equipment for the army."
+      }
+    },
+    {
+      "id": "army029",
+      "chinese": "特種部隊",
+      "english": "Special Forces",
+      "abbreviation": "SF",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "特種部隊是陸軍的重要裝備。",
+        "english": "Special Forces is important equipment for the army."
+      }
+    },
+    {
+      "id": "army030",
+      "chinese": "突擊隊",
+      "english": "Commando",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "突擊隊是陸軍的重要裝備。",
+        "english": "Commando is important equipment for the army."
+      }
+    },
+    {
+      "id": "army031",
+      "chinese": "遊騎兵",
+      "english": "Ranger",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "遊騎兵是陸軍的重要裝備。",
+        "english": "Ranger is important equipment for the army."
+      }
+    },
+    {
+      "id": "army032",
+      "chinese": "憲兵",
+      "english": "Military Police",
+      "abbreviation": "MP",
+      "category": "army",
+      "subcategory": "unit",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "憲兵是陸軍的重要裝備。",
+        "english": "Military Police is important equipment for the army."
+      }
+    },
+    {
+      "id": "army033",
+      "chinese": "主戰坦克",
+      "english": "Main Battle Tank",
+      "abbreviation": "MBT",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "主戰坦克是陸軍的重要裝備。",
+        "english": "Main Battle Tank is important equipment for the army."
+      }
+    },
+    {
+      "id": "army034",
+      "chinese": "輕型坦克",
+      "english": "Light Tank",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "輕型坦克是陸軍的重要裝備。",
+        "english": "Light Tank is important equipment for the army."
+      }
+    },
+    {
+      "id": "army035",
+      "chinese": "重型坦克",
+      "english": "Heavy Tank",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "重型坦克是陸軍的重要裝備。",
+        "english": "Heavy Tank is important equipment for the army."
+      }
+    },
+    {
+      "id": "army036",
+      "chinese": "步兵戰車",
+      "english": "Infantry Fighting Vehicle",
+      "abbreviation": "IFV",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "步兵戰車是陸軍的重要裝備。",
+        "english": "Infantry Fighting Vehicle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army037",
+      "chinese": "裝甲車",
+      "english": "Armored Vehicle",
+      "abbreviation": "AV",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "裝甲車是陸軍的重要裝備。",
+        "english": "Armored Vehicle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army038",
+      "chinese": "自走砲",
+      "english": "Self-Propelled Artillery",
+      "abbreviation": "SPA",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "自走砲是陸軍的重要裝備。",
+        "english": "Self-Propelled Artillery is important equipment for the army."
+      }
+    },
+    {
+      "id": "army039",
+      "chinese": "防空車",
+      "english": "Anti-Aircraft Vehicle",
+      "abbreviation": "AAV",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "防空車是陸軍的重要裝備。",
+        "english": "Anti-Aircraft Vehicle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army040",
+      "chinese": "運兵車",
+      "english": "Troop Carrier",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "運兵車是陸軍的重要裝備。",
+        "english": "Troop Carrier is important equipment for the army."
+      }
+    },
+    {
+      "id": "army041",
+      "chinese": "吉普車",
+      "english": "Jeep",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "吉普車是陸軍的重要裝備。",
+        "english": "Jeep is important equipment for the army."
+      }
+    },
+    {
+      "id": "army042",
+      "chinese": "卡車",
+      "english": "Truck",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "卡車是陸軍的重要裝備。",
+        "english": "Truck is important equipment for the army."
+      }
+    },
+    {
+      "id": "army043",
+      "chinese": "補給車",
+      "english": "Supply Vehicle",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "補給車是陸軍的重要裝備。",
+        "english": "Supply Vehicle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army044",
+      "chinese": "救護車",
+      "english": "Ambulance",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "救護車是陸軍的重要裝備。",
+        "english": "Ambulance is important equipment for the army."
+      }
+    },
+    {
+      "id": "army045",
+      "chinese": "指揮車",
+      "english": "Command Vehicle",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "指揮車是陸軍的重要裝備。",
+        "english": "Command Vehicle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army046",
+      "chinese": "掃雷車",
+      "english": "Mine Clearing Vehicle",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "掃雷車是陸軍的重要裝備。",
+        "english": "Mine Clearing Vehicle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army047",
+      "chinese": "工程車",
+      "english": "Engineering Vehicle",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "工程車是陸軍的重要裝備。",
+        "english": "Engineering Vehicle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army048",
+      "chinese": "橋樑車",
+      "english": "Bridge Layer",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "vehicle",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "橋樑車是陸軍的重要裝備。",
+        "english": "Bridge Layer is important equipment for the army."
+      }
+    },
+    {
+      "id": "army049",
+      "chinese": "野戰砲",
+      "english": "Field Artillery",
+      "abbreviation": "FA",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "野戰砲是陸軍的重要裝備。",
+        "english": "Field Artillery is important equipment for the army."
+      }
+    },
+    {
+      "id": "army050",
+      "chinese": "加農砲",
+      "english": "Cannon",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "加農砲是陸軍的重要裝備。",
+        "english": "Cannon is important equipment for the army."
+      }
+    },
+    {
+      "id": "army051",
+      "chinese": "火箭砲",
+      "english": "Rocket Artillery",
+      "abbreviation": "RA",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "火箭砲是陸軍的重要裝備。",
+        "english": "Rocket Artillery is important equipment for the army."
+      }
+    },
+    {
+      "id": "army052",
+      "chinese": "多管火箭",
+      "english": "Multiple Rocket Launcher",
+      "abbreviation": "MRL",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "多管火箭是陸軍的重要裝備。",
+        "english": "Multiple Rocket Launcher is important equipment for the army."
+      }
+    },
+    {
+      "id": "army053",
+      "chinese": "反坦克砲",
+      "english": "Anti-Tank Gun",
+      "abbreviation": "ATG",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反坦克砲是陸軍的重要裝備。",
+        "english": "Anti-Tank Gun is important equipment for the army."
+      }
+    },
+    {
+      "id": "army054",
+      "chinese": "高射砲",
+      "english": "Anti-Aircraft Gun",
+      "abbreviation": "AAG",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "高射砲是陸軍的重要裝備。",
+        "english": "Anti-Aircraft Gun is important equipment for the army."
+      }
+    },
+    {
+      "id": "army055",
+      "chinese": "迫擊砲",
+      "english": "Mortar",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "迫擊砲是陸軍的重要裝備。",
+        "english": "Mortar is important equipment for the army."
+      }
+    },
+    {
+      "id": "army056",
+      "chinese": "突擊步槍",
+      "english": "Assault Rifle",
+      "abbreviation": "AR",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "突擊步槍是陸軍的重要裝備。",
+        "english": "Assault Rifle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army057",
+      "chinese": "狙擊槍",
+      "english": "Sniper Rifle",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "狙擊槍是陸軍的重要裝備。",
+        "english": "Sniper Rifle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army058",
+      "chinese": "霰彈槍",
+      "english": "Shotgun",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "霰彈槍是陸軍的重要裝備。",
+        "english": "Shotgun is important equipment for the army."
+      }
+    },
+    {
+      "id": "army059",
+      "chinese": "衝鋒槍",
+      "english": "Submachine Gun",
+      "abbreviation": "SMG",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "衝鋒槍是陸軍的重要裝備。",
+        "english": "Submachine Gun is important equipment for the army."
+      }
+    },
+    {
+      "id": "army060",
+      "chinese": "手槍",
+      "english": "Pistol",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "手槍是陸軍的重要裝備。",
+        "english": "Pistol is important equipment for the army."
+      }
+    },
+    {
+      "id": "army061",
+      "chinese": "左輪手槍",
+      "english": "Revolver",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "左輪手槍是陸軍的重要裝備。",
+        "english": "Revolver is important equipment for the army."
+      }
+    },
+    {
+      "id": "army062",
+      "chinese": "輕機槍",
+      "english": "Light Machine Gun",
+      "abbreviation": "LMG",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "輕機槍是陸軍的重要裝備。",
+        "english": "Light Machine Gun is important equipment for the army."
+      }
+    },
+    {
+      "id": "army063",
+      "chinese": "重機槍",
+      "english": "Heavy Machine Gun",
+      "abbreviation": "HMG",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "重機槍是陸軍的重要裝備。",
+        "english": "Heavy Machine Gun is important equipment for the army."
+      }
+    },
+    {
+      "id": "army064",
+      "chinese": "反器材步槍",
+      "english": "Anti-Materiel Rifle",
+      "abbreviation": "AMR",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反器材步槍是陸軍的重要裝備。",
+        "english": "Anti-Materiel Rifle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army065",
+      "chinese": "地雷",
+      "english": "Landmine",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "地雷是陸軍的重要裝備。",
+        "english": "Landmine is important equipment for the army."
+      }
+    },
+    {
+      "id": "army066",
+      "chinese": "反坦克地雷",
+      "english": "Anti-Tank Mine",
+      "abbreviation": "ATM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反坦克地雷是陸軍的重要裝備。",
+        "english": "Anti-Tank Mine is important equipment for the army."
+      }
+    },
+    {
+      "id": "army067",
+      "chinese": "反人員地雷",
+      "english": "Anti-Personnel Mine",
+      "abbreviation": "APM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反人員地雷是陸軍的重要裝備。",
+        "english": "Anti-Personnel Mine is important equipment for the army."
+      }
+    },
+    {
+      "id": "army068",
+      "chinese": "詭雷",
+      "english": "Booby Trap",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "詭雷是陸軍的重要裝備。",
+        "english": "Booby Trap is important equipment for the army."
+      }
+    },
+    {
+      "id": "army069",
+      "chinese": "炸藥",
+      "english": "Explosive",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "炸藥是陸軍的重要裝備。",
+        "english": "Explosive is important equipment for the army."
+      }
+    },
+    {
+      "id": "army070",
+      "chinese": "C4炸藥",
+      "english": "C4",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "C4炸藥是陸軍的重要裝備。",
+        "english": "C4 is important equipment for the army."
+      }
+    },
+    {
+      "id": "army071",
+      "chinese": "手榴彈",
+      "english": "Hand Grenade",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "手榴彈是陸軍的重要裝備。",
+        "english": "Hand Grenade is important equipment for the army."
+      }
+    },
+    {
+      "id": "army072",
+      "chinese": "煙霧彈",
+      "english": "Smoke Grenade",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "煙霧彈是陸軍的重要裝備。",
+        "english": "Smoke Grenade is important equipment for the army."
+      }
+    },
+    {
+      "id": "army073",
+      "chinese": "閃光彈",
+      "english": "Flashbang",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "閃光彈是陸軍的重要裝備。",
+        "english": "Flashbang is important equipment for the army."
+      }
+    },
+    {
+      "id": "army074",
+      "chinese": "催淚彈",
+      "english": "Tear Gas",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "催淚彈是陸軍的重要裝備。",
+        "english": "Tear Gas is important equipment for the army."
+      }
+    },
+    {
+      "id": "army075",
+      "chinese": "反坦克飛彈",
+      "english": "Anti-Tank Missile",
+      "abbreviation": "ATM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反坦克飛彈是陸軍的重要裝備。",
+        "english": "Anti-Tank Missile is important equipment for the army."
+      }
+    },
+    {
+      "id": "army076",
+      "chinese": "肩射飛彈",
+      "english": "Shoulder-Fired Missile",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "肩射飛彈是陸軍的重要裝備。",
+        "english": "Shoulder-Fired Missile is important equipment for the army."
+      }
+    },
+    {
+      "id": "army077",
+      "chinese": "火箭筒",
+      "english": "Rocket Launcher",
+      "abbreviation": "RL",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "火箭筒是陸軍的重要裝備。",
+        "english": "Rocket Launcher is important equipment for the army."
+      }
+    },
+    {
+      "id": "army078",
+      "chinese": "火箭彈",
+      "english": "Rocket",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "火箭彈是陸軍的重要裝備。",
+        "english": "Rocket is important equipment for the army."
+      }
+    },
+    {
+      "id": "army079",
+      "chinese": "彈道飛彈",
+      "english": "Ballistic Missile",
+      "abbreviation": "BM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "彈道飛彈是陸軍的重要裝備。",
+        "english": "Ballistic Missile is important equipment for the army."
+      }
+    },
+    {
+      "id": "army080",
+      "chinese": "巡弋飛彈",
+      "english": "Cruise Missile",
+      "abbreviation": "CM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "巡弋飛彈是陸軍的重要裝備。",
+        "english": "Cruise Missile is important equipment for the army."
+      }
+    },
+    {
+      "id": "army081",
+      "chinese": "防空飛彈",
+      "english": "Surface-to-Air Missile",
+      "abbreviation": "SAM",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "防空飛彈是陸軍的重要裝備。",
+        "english": "Surface-to-Air Missile is important equipment for the army."
+      }
+    },
+    {
+      "id": "army082",
+      "chinese": "頭盔",
+      "english": "Helmet",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "頭盔是陸軍的重要裝備。",
+        "english": "Helmet is important equipment for the army."
+      }
+    },
+    {
+      "id": "army083",
+      "chinese": "防彈背心",
+      "english": "Body Armor",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "防彈背心是陸軍的重要裝備。",
+        "english": "Body Armor is important equipment for the army."
+      }
+    },
+    {
+      "id": "army084",
+      "chinese": "防彈衣",
+      "english": "Bulletproof Vest",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "防彈衣是陸軍的重要裝備。",
+        "english": "Bulletproof Vest is important equipment for the army."
+      }
+    },
+    {
+      "id": "army085",
+      "chinese": "防毒面具",
+      "english": "Gas Mask",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "防毒面具是陸軍的重要裝備。",
+        "english": "Gas Mask is important equipment for the army."
+      }
+    },
+    {
+      "id": "army086",
+      "chinese": "護目鏡",
+      "english": "Goggles",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "護目鏡是陸軍的重要裝備。",
+        "english": "Goggles is important equipment for the army."
+      }
+    },
+    {
+      "id": "army087",
+      "chinese": "戰術背心",
+      "english": "Tactical Vest",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰術背心是陸軍的重要裝備。",
+        "english": "Tactical Vest is important equipment for the army."
+      }
+    },
+    {
+      "id": "army088",
+      "chinese": "瞄準鏡",
+      "english": "Scope",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "瞄準鏡是陸軍的重要裝備。",
+        "english": "Scope is important equipment for the army."
+      }
+    },
+    {
+      "id": "army089",
+      "chinese": "夜視鏡",
+      "english": "Night Vision",
+      "abbreviation": "NV",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "夜視鏡是陸軍的重要裝備。",
+        "english": "Night Vision is important equipment for the army."
+      }
+    },
+    {
+      "id": "army090",
+      "chinese": "熱像儀",
+      "english": "Thermal Imager",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "熱像儀是陸軍的重要裝備。",
+        "english": "Thermal Imager is important equipment for the army."
+      }
+    },
+    {
+      "id": "army091",
+      "chinese": "望遠鏡",
+      "english": "Binoculars",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "望遠鏡是陸軍的重要裝備。",
+        "english": "Binoculars is important equipment for the army."
+      }
+    },
+    {
+      "id": "army092",
+      "chinese": "指北針",
+      "english": "Compass",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "指北針是陸軍的重要裝備。",
+        "english": "Compass is important equipment for the army."
+      }
+    },
+    {
+      "id": "army093",
+      "chinese": "地圖",
+      "english": "Map",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "地圖是陸軍的重要裝備。",
+        "english": "Map is important equipment for the army."
+      }
+    },
+    {
+      "id": "army094",
+      "chinese": "刺刀",
+      "english": "Bayonet",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "刺刀是陸軍的重要裝備。",
+        "english": "Bayonet is important equipment for the army."
+      }
+    },
+    {
+      "id": "army095",
+      "chinese": "匕首",
+      "english": "Dagger",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "匕首是陸軍的重要裝備。",
+        "english": "Dagger is important equipment for the army."
+      }
+    },
+    {
+      "id": "army096",
+      "chinese": "軍刀",
+      "english": "Sword",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "軍刀是陸軍的重要裝備。",
+        "english": "Sword is important equipment for the army."
+      }
+    },
+    {
+      "id": "army097",
+      "chinese": "彈匣",
+      "english": "Magazine",
+      "abbreviation": "MAG",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "彈匣是陸軍的重要裝備。",
+        "english": "Magazine is important equipment for the army."
+      }
+    },
+    {
+      "id": "army098",
+      "chinese": "彈藥帶",
+      "english": "Ammunition Belt",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "彈藥帶是陸軍的重要裝備。",
+        "english": "Ammunition Belt is important equipment for the army."
+      }
+    },
+    {
+      "id": "army099",
+      "chinese": "背包",
+      "english": "Backpack",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "背包是陸軍的重要裝備。",
+        "english": "Backpack is important equipment for the army."
+      }
+    },
+    {
+      "id": "army100",
+      "chinese": "水壺",
+      "english": "Canteen",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "水壺是陸軍的重要裝備。",
+        "english": "Canteen is important equipment for the army."
+      }
+    },
+    {
+      "id": "army101",
+      "chinese": "急救包",
+      "english": "First Aid Kit",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "急救包是陸軍的重要裝備。",
+        "english": "First Aid Kit is important equipment for the army."
+      }
+    },
+    {
+      "id": "army102",
+      "chinese": "睡袋",
+      "english": "Sleeping Bag",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "睡袋是陸軍的重要裝備。",
+        "english": "Sleeping Bag is important equipment for the army."
+      }
+    },
+    {
+      "id": "army103",
+      "chinese": "帳篷",
+      "english": "Tent",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "帳篷是陸軍的重要裝備。",
+        "english": "Tent is important equipment for the army."
+      }
+    },
+    {
+      "id": "army104",
+      "chinese": "碉堡",
+      "english": "Pillbox",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "碉堡是陸軍的重要裝備。",
+        "english": "Pillbox is important equipment for the army."
+      }
+    },
+    {
+      "id": "army105",
+      "chinese": "掩體",
+      "english": "Bunker",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "掩體是陸軍的重要裝備。",
+        "english": "Bunker is important equipment for the army."
+      }
+    },
+    {
+      "id": "army106",
+      "chinese": "戰壕",
+      "english": "Trench",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "戰壕是陸軍的重要裝備。",
+        "english": "Trench is important equipment for the army."
+      }
+    },
+    {
+      "id": "army107",
+      "chinese": "壕溝",
+      "english": "Foxhole",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "壕溝是陸軍的重要裝備。",
+        "english": "Foxhole is important equipment for the army."
+      }
+    },
+    {
+      "id": "army108",
+      "chinese": "防禦工事",
+      "english": "Fortification",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "防禦工事是陸軍的重要裝備。",
+        "english": "Fortification is important equipment for the army."
+      }
+    },
+    {
+      "id": "army109",
+      "chinese": "障礙物",
+      "english": "Obstacle",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "障礙物是陸軍的重要裝備。",
+        "english": "Obstacle is important equipment for the army."
+      }
+    },
+    {
+      "id": "army110",
+      "chinese": "鐵絲網",
+      "english": "Barbed Wire",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "鐵絲網是陸軍的重要裝備。",
+        "english": "Barbed Wire is important equipment for the army."
+      }
+    },
+    {
+      "id": "army111",
+      "chinese": "路障",
+      "english": "Roadblock",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "fortification",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "路障是陸軍的重要裝備。",
+        "english": "Roadblock is important equipment for the army."
+      }
+    },
+    {
+      "id": "army112",
+      "chinese": "檢查哨",
+      "english": "Checkpoint",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "檢查哨是陸軍的重要裝備。",
+        "english": "Checkpoint is important equipment for the army."
+      }
+    },
+    {
+      "id": "army113",
+      "chinese": "觀察哨",
+      "english": "Observation Post",
+      "abbreviation": "OP",
+      "category": "army",
+      "subcategory": "position",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "觀察哨是陸軍的重要裝備。",
+        "english": "Observation Post is important equipment for the army."
+      }
+    },
+    {
+      "id": "army114",
+      "chinese": "前哨",
+      "english": "Outpost",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "前哨是陸軍的重要裝備。",
+        "english": "Outpost is important equipment for the army."
+      }
+    },
+    {
+      "id": "army115",
+      "chinese": "基地",
+      "english": "Base",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "基地是陸軍的重要裝備。",
+        "english": "Base is important equipment for the army."
+      }
+    },
+    {
+      "id": "army116",
+      "chinese": "營地",
+      "english": "Camp",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "position",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "營地是陸軍的重要裝備。",
+        "english": "Camp is important equipment for the army."
+      }
+    },
+    {
+      "id": "army117",
+      "chinese": "兵營",
+      "english": "Barracks",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "兵營是陸軍的重要裝備。",
+        "english": "Barracks is important equipment for the army."
+      }
+    },
+    {
+      "id": "army118",
+      "chinese": "倉庫",
+      "english": "Depot",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "倉庫是陸軍的重要裝備。",
+        "english": "Depot is important equipment for the army."
+      }
+    },
+    {
+      "id": "army119",
+      "chinese": "軍火庫",
+      "english": "Arsenal",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "軍火庫是陸軍的重要裝備。",
+        "english": "Arsenal is important equipment for the army."
+      }
+    },
+    {
+      "id": "army120",
+      "chinese": "衝鋒",
+      "english": "Charge",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "衝鋒是陸軍的重要裝備。",
+        "english": "Charge is important equipment for the army."
+      }
+    },
+    {
+      "id": "army121",
+      "chinese": "掃蕩",
+      "english": "Sweep",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "掃蕩是陸軍的重要裝備。",
+        "english": "Sweep is important equipment for the army."
+      }
+    },
+    {
+      "id": "army122",
+      "chinese": "清剿",
+      "english": "Mop-up",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "清剿是陸軍的重要裝備。",
+        "english": "Mop-up is important equipment for the army."
+      }
+    },
+    {
+      "id": "army123",
+      "chinese": "搜索",
+      "english": "Search",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "搜索是陸軍的重要裝備。",
+        "english": "Search is important equipment for the army."
+      }
+    },
+    {
+      "id": "army124",
+      "chinese": "追擊",
+      "english": "Pursuit",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "追擊是陸軍的重要裝備。",
+        "english": "Pursuit is important equipment for the army."
+      }
+    },
+    {
+      "id": "army125",
+      "chinese": "伏擊",
+      "english": "Ambush",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "伏擊是陸軍的重要裝備。",
+        "english": "Ambush is important equipment for the army."
+      }
+    },
+    {
+      "id": "army126",
+      "chinese": "奇襲",
+      "english": "Surprise Attack",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "奇襲是陸軍的重要裝備。",
+        "english": "Surprise Attack is important equipment for the army."
+      }
+    },
+    {
+      "id": "army127",
+      "chinese": "佯攻",
+      "english": "Feint",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "佯攻是陸軍的重要裝備。",
+        "english": "Feint is important equipment for the army."
+      }
+    },
+    {
+      "id": "army128",
+      "chinese": "誘敵",
+      "english": "Lure",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "誘敵是陸軍的重要裝備。",
+        "english": "Lure is important equipment for the army."
+      }
+    },
+    {
+      "id": "army129",
+      "chinese": "迂迴",
+      "english": "Flanking Maneuver",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "迂迴是陸軍的重要裝備。",
+        "english": "Flanking Maneuver is important equipment for the army."
+      }
+    },
+    {
+      "id": "army130",
+      "chinese": "滲透",
+      "english": "Infiltration",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "滲透是陸軍的重要裝備。",
+        "english": "Infiltration is important equipment for the army."
+      }
+    },
+    {
+      "id": "army131",
+      "chinese": "突擊",
+      "english": "Raid",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "突擊是陸軍的重要裝備。",
+        "english": "Raid is important equipment for the army."
+      }
+    },
+    {
+      "id": "army132",
+      "chinese": "強攻",
+      "english": "Storm",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "強攻是陸軍的重要裝備。",
+        "english": "Storm is important equipment for the army."
+      }
+    },
+    {
+      "id": "army133",
+      "chinese": "登陸",
+      "english": "Landing",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "登陸是陸軍的重要裝備。",
+        "english": "Landing is important equipment for the army."
+      }
+    },
+    {
+      "id": "army134",
+      "chinese": "空降",
+      "english": "Airdrop",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空降是陸軍的重要裝備。",
+        "english": "Airdrop is important equipment for the army."
+      }
+    },
+    {
+      "id": "army135",
+      "chinese": "撤離",
+      "english": "Extraction",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "撤離是陸軍的重要裝備。",
+        "english": "Extraction is important equipment for the army."
+      }
+    },
+    {
+      "id": "army136",
+      "chinese": "警戒",
+      "english": "Alert",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "警戒是陸軍的重要裝備。",
+        "english": "Alert is important equipment for the army."
+      }
+    },
+    {
+      "id": "army137",
+      "chinese": "待命",
+      "english": "Standby",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "待命是陸軍的重要裝備。",
+        "english": "Standby is important equipment for the army."
+      }
+    },
+    {
+      "id": "army138",
+      "chinese": "就緒",
+      "english": "Ready",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "就緒是陸軍的重要裝備。",
+        "english": "Ready is important equipment for the army."
+      }
+    },
+    {
+      "id": "army139",
+      "chinese": "戰備",
+      "english": "Combat Ready",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰備是陸軍的重要裝備。",
+        "english": "Combat Ready is important equipment for the army."
+      }
+    },
+    {
+      "id": "army140",
+      "chinese": "備戰",
+      "english": "Prepare for War",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "備戰是陸軍的重要裝備。",
+        "english": "Prepare for War is important equipment for the army."
+      }
+    },
+    {
+      "id": "army141",
+      "chinese": "動員",
+      "english": "Mobilization",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "動員是陸軍的重要裝備。",
+        "english": "Mobilization is important equipment for the army."
+      }
+    },
+    {
+      "id": "army142",
+      "chinese": "集結",
+      "english": "Assembly",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "集結是陸軍的重要裝備。",
+        "english": "Assembly is important equipment for the army."
+      }
+    },
+    {
+      "id": "army143",
+      "chinese": "展開",
+      "english": "Deployment",
+      "abbreviation": "",
+      "category": "army",
+      "subcategory": "status",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "展開是陸軍的重要裝備。",
+        "english": "Deployment is important equipment for the army."
+      }
+    },
+    {
+      "id": "navy021",
+      "chinese": "戰艦",
+      "english": "Battleship",
+      "abbreviation": "BB",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰艦在海戰中發揮重要作用。",
+        "english": "Battleship plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy022",
+      "chinese": "航空母艦",
+      "english": "Aircraft Carrier",
+      "abbreviation": "CV",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航空母艦在海戰中發揮重要作用。",
+        "english": "Aircraft Carrier plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy023",
+      "chinese": "巡洋艦",
+      "english": "Cruiser",
+      "abbreviation": "CG",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "巡洋艦在海戰中發揮重要作用。",
+        "english": "Cruiser plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy024",
+      "chinese": "驅逐艦",
+      "english": "Destroyer",
+      "abbreviation": "DD",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "驅逐艦在海戰中發揮重要作用。",
+        "english": "Destroyer plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy025",
+      "chinese": "護衛艦",
+      "english": "Frigate",
+      "abbreviation": "FF",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "護衛艦在海戰中發揮重要作用。",
+        "english": "Frigate plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy026",
+      "chinese": "巡防艦",
+      "english": "Corvette",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "巡防艦在海戰中發揮重要作用。",
+        "english": "Corvette plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy027",
+      "chinese": "潛艇",
+      "english": "Submarine",
+      "abbreviation": "SS",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "潛艇在海戰中發揮重要作用。",
+        "english": "Submarine plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy028",
+      "chinese": "核潛艇",
+      "english": "Nuclear Submarine",
+      "abbreviation": "SSN",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "核潛艇在海戰中發揮重要作用。",
+        "english": "Nuclear Submarine plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy029",
+      "chinese": "攻擊潛艇",
+      "english": "Attack Submarine",
+      "abbreviation": "SSN",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "攻擊潛艇在海戰中發揮重要作用。",
+        "english": "Attack Submarine plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy030",
+      "chinese": "彈道飛彈潛艇",
+      "english": "Ballistic Missile Submarine",
+      "abbreviation": "SSBN",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "彈道飛彈潛艇在海戰中發揮重要作用。",
+        "english": "Ballistic Missile Submarine plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy031",
+      "chinese": "登陸艦",
+      "english": "Landing Ship",
+      "abbreviation": "LST",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "登陸艦在海戰中發揮重要作用。",
+        "english": "Landing Ship plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy032",
+      "chinese": "兩棲突擊艦",
+      "english": "Amphibious Assault Ship",
+      "abbreviation": "LHA",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "兩棲突擊艦在海戰中發揮重要作用。",
+        "english": "Amphibious Assault Ship plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy033",
+      "chinese": "補給艦",
+      "english": "Supply Ship",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "補給艦在海戰中發揮重要作用。",
+        "english": "Supply Ship plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy034",
+      "chinese": "油輪",
+      "english": "Tanker",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "油輪在海戰中發揮重要作用。",
+        "english": "Tanker plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy035",
+      "chinese": "運輸艦",
+      "english": "Transport Ship",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "運輸艦在海戰中發揮重要作用。",
+        "english": "Transport Ship plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy036",
+      "chinese": "醫療艦",
+      "english": "Hospital Ship",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "醫療艦在海戰中發揮重要作用。",
+        "english": "Hospital Ship plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy037",
+      "chinese": "掃雷艦",
+      "english": "Minesweeper",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "掃雷艦在海戰中發揮重要作用。",
+        "english": "Minesweeper plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy038",
+      "chinese": "快艇",
+      "english": "Fast Attack Craft",
+      "abbreviation": "FAC",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "快艇在海戰中發揮重要作用。",
+        "english": "Fast Attack Craft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy039",
+      "chinese": "巡邏艇",
+      "english": "Patrol Boat",
+      "abbreviation": "PB",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "巡邏艇在海戰中發揮重要作用。",
+        "english": "Patrol Boat plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy040",
+      "chinese": "魚雷艇",
+      "english": "Torpedo Boat",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "魚雷艇在海戰中發揮重要作用。",
+        "english": "Torpedo Boat plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy041",
+      "chinese": "飛彈艇",
+      "english": "Missile Boat",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "飛彈艇在海戰中發揮重要作用。",
+        "english": "Missile Boat plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy042",
+      "chinese": "氣墊船",
+      "english": "Hovercraft",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "氣墊船在海戰中發揮重要作用。",
+        "english": "Hovercraft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy043",
+      "chinese": "登陸艇",
+      "english": "Landing Craft",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "vessel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "登陸艇在海戰中發揮重要作用。",
+        "english": "Landing Craft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy044",
+      "chinese": "艦砲",
+      "english": "Naval Gun",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "艦砲在海戰中發揮重要作用。",
+        "english": "Naval Gun plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy045",
+      "chinese": "主砲",
+      "english": "Main Gun",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "主砲在海戰中發揮重要作用。",
+        "english": "Main Gun plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy046",
+      "chinese": "副砲",
+      "english": "Secondary Gun",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "副砲在海戰中發揮重要作用。",
+        "english": "Secondary Gun plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy047",
+      "chinese": "防空砲",
+      "english": "Anti-Aircraft Gun",
+      "abbreviation": "AAG",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "防空砲在海戰中發揮重要作用。",
+        "english": "Anti-Aircraft Gun plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy048",
+      "chinese": "近防砲",
+      "english": "Close-In Weapon System",
+      "abbreviation": "CIWS",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "近防砲在海戰中發揮重要作用。",
+        "english": "Close-In Weapon System plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy049",
+      "chinese": "魚雷",
+      "english": "Torpedo",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "魚雷在海戰中發揮重要作用。",
+        "english": "Torpedo plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy050",
+      "chinese": "深水炸彈",
+      "english": "Depth Charge",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "深水炸彈在海戰中發揮重要作用。",
+        "english": "Depth Charge plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy051",
+      "chinese": "水雷",
+      "english": "Naval Mine",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "水雷在海戰中發揮重要作用。",
+        "english": "Naval Mine plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy052",
+      "chinese": "反艦飛彈",
+      "english": "Anti-Ship Missile",
+      "abbreviation": "ASM",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反艦飛彈在海戰中發揮重要作用。",
+        "english": "Anti-Ship Missile plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy053",
+      "chinese": "對地飛彈",
+      "english": "Land Attack Missile",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "對地飛彈在海戰中發揮重要作用。",
+        "english": "Land Attack Missile plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy054",
+      "chinese": "防空飛彈",
+      "english": "Surface-to-Air Missile",
+      "abbreviation": "SAM",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "防空飛彈在海戰中發揮重要作用。",
+        "english": "Surface-to-Air Missile plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy055",
+      "chinese": "反潛飛彈",
+      "english": "Anti-Submarine Missile",
+      "abbreviation": "ASM",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反潛飛彈在海戰中發揮重要作用。",
+        "english": "Anti-Submarine Missile plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy056",
+      "chinese": "巡弋飛彈",
+      "english": "Cruise Missile",
+      "abbreviation": "CM",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "巡弋飛彈在海戰中發揮重要作用。",
+        "english": "Cruise Missile plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy057",
+      "chinese": "魚叉飛彈",
+      "english": "Harpoon Missile",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "魚叉飛彈在海戰中發揮重要作用。",
+        "english": "Harpoon Missile plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy058",
+      "chinese": "戰斧飛彈",
+      "english": "Tomahawk Missile",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰斧飛彈在海戰中發揮重要作用。",
+        "english": "Tomahawk Missile plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy059",
+      "chinese": "艦載戰鬥機",
+      "english": "Carrier Fighter",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "艦載戰鬥機在海戰中發揮重要作用。",
+        "english": "Carrier Fighter plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy060",
+      "chinese": "反潛機",
+      "english": "Anti-Submarine Aircraft",
+      "abbreviation": "ASW",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反潛機在海戰中發揮重要作用。",
+        "english": "Anti-Submarine Aircraft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy061",
+      "chinese": "預警機",
+      "english": "Early Warning Aircraft",
+      "abbreviation": "AEW",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "預警機在海戰中發揮重要作用。",
+        "english": "Early Warning Aircraft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy062",
+      "chinese": "電戰機",
+      "english": "Electronic Warfare Aircraft",
+      "abbreviation": "EW",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "電戰機在海戰中發揮重要作用。",
+        "english": "Electronic Warfare Aircraft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy063",
+      "chinese": "運輸機",
+      "english": "Transport Aircraft",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "運輸機在海戰中發揮重要作用。",
+        "english": "Transport Aircraft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy064",
+      "chinese": "直升機",
+      "english": "Helicopter",
+      "abbreviation": "HELO",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "直升機在海戰中發揮重要作用。",
+        "english": "Helicopter plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy065",
+      "chinese": "反潛直升機",
+      "english": "Anti-Submarine Helicopter",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反潛直升機在海戰中發揮重要作用。",
+        "english": "Anti-Submarine Helicopter plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy066",
+      "chinese": "搜救直升機",
+      "english": "Search and Rescue Helicopter",
+      "abbreviation": "SAR",
+      "category": "navy",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "搜救直升機在海戰中發揮重要作用。",
+        "english": "Search and Rescue Helicopter plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy067",
+      "chinese": "艦橋",
+      "english": "Bridge",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "艦橋在海戰中發揮重要作用。",
+        "english": "Bridge plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy068",
+      "chinese": "駕駛台",
+      "english": "Wheelhouse",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "駕駛台在海戰中發揮重要作用。",
+        "english": "Wheelhouse plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy069",
+      "chinese": "指揮中心",
+      "english": "Combat Information Center",
+      "abbreviation": "CIC",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "指揮中心在海戰中發揮重要作用。",
+        "english": "Combat Information Center plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy070",
+      "chinese": "甲板",
+      "english": "Deck",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "甲板在海戰中發揮重要作用。",
+        "english": "Deck plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy071",
+      "chinese": "飛行甲板",
+      "english": "Flight Deck",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "飛行甲板在海戰中發揮重要作用。",
+        "english": "Flight Deck plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy072",
+      "chinese": "機庫",
+      "english": "Hangar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機庫在海戰中發揮重要作用。",
+        "english": "Hangar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy073",
+      "chinese": "船艙",
+      "english": "Cabin",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "船艙在海戰中發揮重要作用。",
+        "english": "Cabin plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy074",
+      "chinese": "彈藥庫",
+      "english": "Magazine",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "彈藥庫在海戰中發揮重要作用。",
+        "english": "Magazine plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy075",
+      "chinese": "引擎室",
+      "english": "Engine Room",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "引擎室在海戰中發揮重要作用。",
+        "english": "Engine Room plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy076",
+      "chinese": "鍋爐室",
+      "english": "Boiler Room",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "鍋爐室在海戰中發揮重要作用。",
+        "english": "Boiler Room plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy077",
+      "chinese": "雷達室",
+      "english": "Radar Room",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "雷達室在海戰中發揮重要作用。",
+        "english": "Radar Room plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy078",
+      "chinese": "通訊室",
+      "english": "Radio Room",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "通訊室在海戰中發揮重要作用。",
+        "english": "Radio Room plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy079",
+      "chinese": "醫務室",
+      "english": "Sick Bay",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "醫務室在海戰中發揮重要作用。",
+        "english": "Sick Bay plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy080",
+      "chinese": "餐廳",
+      "english": "Mess Hall",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "餐廳在海戰中發揮重要作用。",
+        "english": "Mess Hall plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy081",
+      "chinese": "聲納",
+      "english": "Sonar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "聲納在海戰中發揮重要作用。",
+        "english": "Sonar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy082",
+      "chinese": "主動聲納",
+      "english": "Active Sonar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "主動聲納在海戰中發揮重要作用。",
+        "english": "Active Sonar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy083",
+      "chinese": "被動聲納",
+      "english": "Passive Sonar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "被動聲納在海戰中發揮重要作用。",
+        "english": "Passive Sonar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy084",
+      "chinese": "拖曳聲納",
+      "english": "Towed Sonar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "拖曳聲納在海戰中發揮重要作用。",
+        "english": "Towed Sonar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy085",
+      "chinese": "聲納浮標",
+      "english": "Sonobuoy",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "聲納浮標在海戰中發揮重要作用。",
+        "english": "Sonobuoy plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy086",
+      "chinese": "雷達",
+      "english": "Radar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "雷達在海戰中發揮重要作用。",
+        "english": "Radar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy087",
+      "chinese": "搜索雷達",
+      "english": "Search Radar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "搜索雷達在海戰中發揮重要作用。",
+        "english": "Search Radar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy088",
+      "chinese": "火控雷達",
+      "english": "Fire Control Radar",
+      "abbreviation": "FCR",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "火控雷達在海戰中發揮重要作用。",
+        "english": "Fire Control Radar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy089",
+      "chinese": "導航雷達",
+      "english": "Navigation Radar",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "導航雷達在海戰中發揮重要作用。",
+        "english": "Navigation Radar plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy090",
+      "chinese": "電子戰系統",
+      "english": "Electronic Warfare System",
+      "abbreviation": "EW",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "電子戰系統在海戰中發揮重要作用。",
+        "english": "Electronic Warfare System plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy091",
+      "chinese": "對抗措施",
+      "english": "Countermeasures",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "對抗措施在海戰中發揮重要作用。",
+        "english": "Countermeasures plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy092",
+      "chinese": "干擾器",
+      "english": "Jammer",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "干擾器在海戰中發揮重要作用。",
+        "english": "Jammer plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy093",
+      "chinese": "誘餌",
+      "english": "Decoy",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "誘餌在海戰中發揮重要作用。",
+        "english": "Decoy plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy094",
+      "chinese": "煙幕",
+      "english": "Smoke Screen",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "tactical",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "煙幕在海戰中發揮重要作用。",
+        "english": "Smoke Screen plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy095",
+      "chinese": "艦長",
+      "english": "Captain",
+      "abbreviation": "CAPT",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "艦長在海戰中發揮重要作用。",
+        "english": "Captain plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy096",
+      "chinese": "大副",
+      "english": "Executive Officer",
+      "abbreviation": "XO",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "大副在海戰中發揮重要作用。",
+        "english": "Executive Officer plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy097",
+      "chinese": "輪機長",
+      "english": "Chief Engineer",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "輪機長在海戰中發揮重要作用。",
+        "english": "Chief Engineer plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy098",
+      "chinese": "砲術長",
+      "english": "Gunnery Officer",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "砲術長在海戰中發揮重要作用。",
+        "english": "Gunnery Officer plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy099",
+      "chinese": "航海長",
+      "english": "Navigator",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "航海長在海戰中發揮重要作用。",
+        "english": "Navigator plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy100",
+      "chinese": "通信官",
+      "english": "Communication Officer",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "通信官在海戰中發揮重要作用。",
+        "english": "Communication Officer plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy101",
+      "chinese": "醫官",
+      "english": "Medical Officer",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "醫官在海戰中發揮重要作用。",
+        "english": "Medical Officer plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy102",
+      "chinese": "水手",
+      "english": "Sailor",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "水手在海戰中發揮重要作用。",
+        "english": "Sailor plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy103",
+      "chinese": "艦員",
+      "english": "Crew",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "rank",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "艦員在海戰中發揮重要作用。",
+        "english": "Crew plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy104",
+      "chinese": "舵手",
+      "english": "Helmsman",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "舵手在海戰中發揮重要作用。",
+        "english": "Helmsman plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy105",
+      "chinese": "砲手",
+      "english": "Gunner",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "砲手在海戰中發揮重要作用。",
+        "english": "Gunner plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy106",
+      "chinese": "雷達兵",
+      "english": "Radar Operator",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "personnel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "雷達兵在海戰中發揮重要作用。",
+        "english": "Radar Operator plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy107",
+      "chinese": "聲納兵",
+      "english": "Sonar Operator",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "personnel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "聲納兵在海戰中發揮重要作用。",
+        "english": "Sonar Operator plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy108",
+      "chinese": "海戰",
+      "english": "Naval Battle",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "combat",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "海戰在海戰中發揮重要作用。",
+        "english": "Naval Battle plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy109",
+      "chinese": "海上封鎖",
+      "english": "Naval Blockade",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "海上封鎖在海戰中發揮重要作用。",
+        "english": "Naval Blockade plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy110",
+      "chinese": "護航",
+      "english": "Convoy",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "護航在海戰中發揮重要作用。",
+        "english": "Convoy plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy111",
+      "chinese": "巡航",
+      "english": "Patrol",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "巡航在海戰中發揮重要作用。",
+        "english": "Patrol plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy112",
+      "chinese": "搜索",
+      "english": "Search",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "搜索在海戰中發揮重要作用。",
+        "english": "Search plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy113",
+      "chinese": "救援",
+      "english": "Rescue",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "救援在海戰中發揮重要作用。",
+        "english": "Rescue plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy114",
+      "chinese": "反潛",
+      "english": "Anti-Submarine Warfare",
+      "abbreviation": "ASW",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反潛在海戰中發揮重要作用。",
+        "english": "Anti-Submarine Warfare plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy115",
+      "chinese": "反艦",
+      "english": "Anti-Ship Warfare",
+      "abbreviation": "ASW",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反艦在海戰中發揮重要作用。",
+        "english": "Anti-Ship Warfare plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy116",
+      "chinese": "防空",
+      "english": "Air Defense",
+      "abbreviation": "AD",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "防空在海戰中發揮重要作用。",
+        "english": "Air Defense plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy117",
+      "chinese": "水雷戰",
+      "english": "Mine Warfare",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "水雷戰在海戰中發揮重要作用。",
+        "english": "Mine Warfare plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy118",
+      "chinese": "掃雷",
+      "english": "Minesweeping",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "掃雷在海戰中發揮重要作用。",
+        "english": "Minesweeping plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy119",
+      "chinese": "佈雷",
+      "english": "Mining",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "佈雷在海戰中發揮重要作用。",
+        "english": "Mining plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy120",
+      "chinese": "兩棲作戰",
+      "english": "Amphibious Operation",
+      "abbreviation": "AMPH OP",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "兩棲作戰在海戰中發揮重要作用。",
+        "english": "Amphibious Operation plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy121",
+      "chinese": "登陸作戰",
+      "english": "Amphibious Assault",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "登陸作戰在海戰中發揮重要作用。",
+        "english": "Amphibious Assault plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy122",
+      "chinese": "艦砲射擊",
+      "english": "Naval Gunfire Support",
+      "abbreviation": "NGS",
+      "category": "navy",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "艦砲射擊在海戰中發揮重要作用。",
+        "english": "Naval Gunfire Support plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy123",
+      "chinese": "啟航",
+      "english": "Sail",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "啟航在海戰中發揮重要作用。",
+        "english": "Sail plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy124",
+      "chinese": "航行",
+      "english": "Navigation",
+      "abbreviation": "NAV",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航行在海戰中發揮重要作用。",
+        "english": "Navigation plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy125",
+      "chinese": "停泊",
+      "english": "Berth",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "停泊在海戰中發揮重要作用。",
+        "english": "Berth plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy126",
+      "chinese": "錨定",
+      "english": "Anchor",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "錨定在海戰中發揮重要作用。",
+        "english": "Anchor plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy127",
+      "chinese": "拋錨",
+      "english": "Drop Anchor",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "拋錨在海戰中發揮重要作用。",
+        "english": "Drop Anchor plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy128",
+      "chinese": "起錨",
+      "english": "Weigh Anchor",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "起錨在海戰中發揮重要作用。",
+        "english": "Weigh Anchor plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy129",
+      "chinese": "靠港",
+      "english": "Dock",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "靠港在海戰中發揮重要作用。",
+        "english": "Dock plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy130",
+      "chinese": "離港",
+      "english": "Depart",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "離港在海戰中發揮重要作用。",
+        "english": "Depart plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy131",
+      "chinese": "航向",
+      "english": "Course",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航向在海戰中發揮重要作用。",
+        "english": "Course plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy132",
+      "chinese": "航速",
+      "english": "Speed",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航速在海戰中發揮重要作用。",
+        "english": "Speed plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy133",
+      "chinese": "航道",
+      "english": "Channel",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航道在海戰中發揮重要作用。",
+        "english": "Channel plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy134",
+      "chinese": "海圖",
+      "english": "Chart",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "海圖在海戰中發揮重要作用。",
+        "english": "Chart plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy135",
+      "chinese": "經度",
+      "english": "Longitude",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "經度在海戰中發揮重要作用。",
+        "english": "Longitude plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy136",
+      "chinese": "緯度",
+      "english": "Latitude",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "緯度在海戰中發揮重要作用。",
+        "english": "Latitude plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy137",
+      "chinese": "海流",
+      "english": "Current",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "海流在海戰中發揮重要作用。",
+        "english": "Current plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy138",
+      "chinese": "潮汐",
+      "english": "Tide",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "潮汐在海戰中發揮重要作用。",
+        "english": "Tide plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy139",
+      "chinese": "風浪",
+      "english": "Wave",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "風浪在海戰中發揮重要作用。",
+        "english": "Wave plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy140",
+      "chinese": "風向",
+      "english": "Wind Direction",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "風向在海戰中發揮重要作用。",
+        "english": "Wind Direction plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy141",
+      "chinese": "風速",
+      "english": "Wind Speed",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "navigation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "風速在海戰中發揮重要作用。",
+        "english": "Wind Speed plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy142",
+      "chinese": "船首",
+      "english": "Bow",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "船首在海戰中發揮重要作用。",
+        "english": "Bow plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy143",
+      "chinese": "船尾",
+      "english": "Stern",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "船尾在海戰中發揮重要作用。",
+        "english": "Stern plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy144",
+      "chinese": "船舷",
+      "english": "Hull",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "船舷在海戰中發揮重要作用。",
+        "english": "Hull plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy145",
+      "chinese": "左舷",
+      "english": "Port",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "左舷在海戰中發揮重要作用。",
+        "english": "Port plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy146",
+      "chinese": "右舷",
+      "english": "Starboard",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "右舷在海戰中發揮重要作用。",
+        "english": "Starboard plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy147",
+      "chinese": "龍骨",
+      "english": "Keel",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "龍骨在海戰中發揮重要作用。",
+        "english": "Keel plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy148",
+      "chinese": "螺旋槳",
+      "english": "Propeller",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "螺旋槳在海戰中發揮重要作用。",
+        "english": "Propeller plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy149",
+      "chinese": "舵",
+      "english": "Rudder",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "舵在海戰中發揮重要作用。",
+        "english": "Rudder plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy150",
+      "chinese": "錨",
+      "english": "Anchor",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "錨在海戰中發揮重要作用。",
+        "english": "Anchor plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy151",
+      "chinese": "煙囪",
+      "english": "Funnel",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "煙囪在海戰中發揮重要作用。",
+        "english": "Funnel plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy152",
+      "chinese": "桅杆",
+      "english": "Mast",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "structure",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "桅杆在海戰中發揮重要作用。",
+        "english": "Mast plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy153",
+      "chinese": "救生艇",
+      "english": "Lifeboat",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "救生艇在海戰中發揮重要作用。",
+        "english": "Lifeboat plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy154",
+      "chinese": "救生筏",
+      "english": "Life Raft",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "救生筏在海戰中發揮重要作用。",
+        "english": "Life Raft plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "navy155",
+      "chinese": "救生衣",
+      "english": "Life Jacket",
+      "abbreviation": "",
+      "category": "navy",
+      "subcategory": "equipment",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "救生衣在海戰中發揮重要作用。",
+        "english": "Life Jacket plays an important role in naval warfare."
+      }
+    },
+    {
+      "id": "air021",
+      "chinese": "戰鬥機",
+      "english": "Fighter",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "戰鬥機是現代空戰的關鍵。",
+        "english": "Fighter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air022",
+      "chinese": "攔截機",
+      "english": "Interceptor",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "攔截機是現代空戰的關鍵。",
+        "english": "Interceptor is key to modern air combat."
+      }
+    },
+    {
+      "id": "air023",
+      "chinese": "戰鬥轟炸機",
+      "english": "Fighter-Bomber",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰鬥轟炸機是現代空戰的關鍵。",
+        "english": "Fighter-Bomber is key to modern air combat."
+      }
+    },
+    {
+      "id": "air024",
+      "chinese": "轟炸機",
+      "english": "Bomber",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "轟炸機是現代空戰的關鍵。",
+        "english": "Bomber is key to modern air combat."
+      }
+    },
+    {
+      "id": "air025",
+      "chinese": "戰略轟炸機",
+      "english": "Strategic Bomber",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰略轟炸機是現代空戰的關鍵。",
+        "english": "Strategic Bomber is key to modern air combat."
+      }
+    },
+    {
+      "id": "air026",
+      "chinese": "戰術轟炸機",
+      "english": "Tactical Bomber",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "戰術轟炸機是現代空戰的關鍵。",
+        "english": "Tactical Bomber is key to modern air combat."
+      }
+    },
+    {
+      "id": "air027",
+      "chinese": "攻擊機",
+      "english": "Attack Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "攻擊機是現代空戰的關鍵。",
+        "english": "Attack Aircraft is key to modern air combat."
+      }
+    },
+    {
+      "id": "air028",
+      "chinese": "對地攻擊機",
+      "english": "Ground Attack Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "對地攻擊機是現代空戰的關鍵。",
+        "english": "Ground Attack Aircraft is key to modern air combat."
+      }
+    },
+    {
+      "id": "air029",
+      "chinese": "偵察機",
+      "english": "Reconnaissance Aircraft",
+      "abbreviation": "RECON",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "偵察機是現代空戰的關鍵。",
+        "english": "Reconnaissance Aircraft is key to modern air combat."
+      }
+    },
+    {
+      "id": "air030",
+      "chinese": "預警機",
+      "english": "Airborne Early Warning",
+      "abbreviation": "AEW",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "預警機是現代空戰的關鍵。",
+        "english": "Airborne Early Warning is key to modern air combat."
+      }
+    },
+    {
+      "id": "air031",
+      "chinese": "電子戰機",
+      "english": "Electronic Warfare Aircraft",
+      "abbreviation": "EW",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "電子戰機是現代空戰的關鍵。",
+        "english": "Electronic Warfare Aircraft is key to modern air combat."
+      }
+    },
+    {
+      "id": "air032",
+      "chinese": "運輸機",
+      "english": "Transport Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "運輸機是現代空戰的關鍵。",
+        "english": "Transport Aircraft is key to modern air combat."
+      }
+    },
+    {
+      "id": "air033",
+      "chinese": "空中加油機",
+      "english": "Tanker Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空中加油機是現代空戰的關鍵。",
+        "english": "Tanker Aircraft is key to modern air combat."
+      }
+    },
+    {
+      "id": "air034",
+      "chinese": "教練機",
+      "english": "Trainer",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "教練機是現代空戰的關鍵。",
+        "english": "Trainer is key to modern air combat."
+      }
+    },
+    {
+      "id": "air035",
+      "chinese": "無人機",
+      "english": "Unmanned Aerial Vehicle",
+      "abbreviation": "UAV",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "無人機是現代空戰的關鍵。",
+        "english": "Unmanned Aerial Vehicle is key to modern air combat."
+      }
+    },
+    {
+      "id": "air036",
+      "chinese": "無人戰鬥機",
+      "english": "Unmanned Combat Aerial Vehicle",
+      "abbreviation": "UCAV",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "無人戰鬥機是現代空戰的關鍵。",
+        "english": "Unmanned Combat Aerial Vehicle is key to modern air combat."
+      }
+    },
+    {
+      "id": "air037",
+      "chinese": "隱形戰機",
+      "english": "Stealth Fighter",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "隱形戰機是現代空戰的關鍵。",
+        "english": "Stealth Fighter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air038",
+      "chinese": "多用途戰機",
+      "english": "Multirole Fighter",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "多用途戰機是現代空戰的關鍵。",
+        "english": "Multirole Fighter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air039",
+      "chinese": "噴射機",
+      "english": "Jet",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "噴射機是現代空戰的關鍵。",
+        "english": "Jet is key to modern air combat."
+      }
+    },
+    {
+      "id": "air040",
+      "chinese": "螺旋槳飛機",
+      "english": "Propeller Aircraft",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "螺旋槳飛機是現代空戰的關鍵。",
+        "english": "Propeller Aircraft is key to modern air combat."
+      }
+    },
+    {
+      "id": "air041",
+      "chinese": "攻擊直升機",
+      "english": "Attack Helicopter",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "攻擊直升機是現代空戰的關鍵。",
+        "english": "Attack Helicopter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air042",
+      "chinese": "運輸直升機",
+      "english": "Transport Helicopter",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "運輸直升機是現代空戰的關鍵。",
+        "english": "Transport Helicopter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air043",
+      "chinese": "偵察直升機",
+      "english": "Reconnaissance Helicopter",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "偵察直升機是現代空戰的關鍵。",
+        "english": "Reconnaissance Helicopter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air044",
+      "chinese": "搜救直升機",
+      "english": "Search and Rescue Helicopter",
+      "abbreviation": "SAR",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "搜救直升機是現代空戰的關鍵。",
+        "english": "Search and Rescue Helicopter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air045",
+      "chinese": "反潛直升機",
+      "english": "Anti-Submarine Helicopter",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反潛直升機是現代空戰的關鍵。",
+        "english": "Anti-Submarine Helicopter is key to modern air combat."
+      }
+    },
+    {
+      "id": "air046",
+      "chinese": "武裝直升機",
+      "english": "Gunship",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "aircraft",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "武裝直升機是現代空戰的關鍵。",
+        "english": "Gunship is key to modern air combat."
+      }
+    },
+    {
+      "id": "air047",
+      "chinese": "空對空飛彈",
+      "english": "Air-to-Air Missile",
+      "abbreviation": "AAM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空對空飛彈是現代空戰的關鍵。",
+        "english": "Air-to-Air Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air048",
+      "chinese": "空對地飛彈",
+      "english": "Air-to-Ground Missile",
+      "abbreviation": "AGM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空對地飛彈是現代空戰的關鍵。",
+        "english": "Air-to-Ground Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air049",
+      "chinese": "空對艦飛彈",
+      "english": "Air-to-Ship Missile",
+      "abbreviation": "ASM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空對艦飛彈是現代空戰的關鍵。",
+        "english": "Air-to-Ship Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air050",
+      "chinese": "反輻射飛彈",
+      "english": "Anti-Radiation Missile",
+      "abbreviation": "ARM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "反輻射飛彈是現代空戰的關鍵。",
+        "english": "Anti-Radiation Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air051",
+      "chinese": "紅外線飛彈",
+      "english": "Infrared Missile",
+      "abbreviation": "IR",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "紅外線飛彈是現代空戰的關鍵。",
+        "english": "Infrared Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air052",
+      "chinese": "雷達導引飛彈",
+      "english": "Radar-Guided Missile",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "雷達導引飛彈是現代空戰的關鍵。",
+        "english": "Radar-Guided Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air053",
+      "chinese": "短程飛彈",
+      "english": "Short-Range Missile",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "短程飛彈是現代空戰的關鍵。",
+        "english": "Short-Range Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air054",
+      "chinese": "中程飛彈",
+      "english": "Medium-Range Missile",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "中程飛彈是現代空戰的關鍵。",
+        "english": "Medium-Range Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air055",
+      "chinese": "長程飛彈",
+      "english": "Long-Range Missile",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "長程飛彈是現代空戰的關鍵。",
+        "english": "Long-Range Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air056",
+      "chinese": "巡弋飛彈",
+      "english": "Cruise Missile",
+      "abbreviation": "CM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "巡弋飛彈是現代空戰的關鍵。",
+        "english": "Cruise Missile is key to modern air combat."
+      }
+    },
+    {
+      "id": "air057",
+      "chinese": "炸彈",
+      "english": "Bomb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "炸彈是現代空戰的關鍵。",
+        "english": "Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air058",
+      "chinese": "自由落體炸彈",
+      "english": "Free-Fall Bomb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "自由落體炸彈是現代空戰的關鍵。",
+        "english": "Free-Fall Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air059",
+      "chinese": "精確導引炸彈",
+      "english": "Precision-Guided Bomb",
+      "abbreviation": "PGM",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "精確導引炸彈是現代空戰的關鍵。",
+        "english": "Precision-Guided Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air060",
+      "chinese": "雷射導引炸彈",
+      "english": "Laser-Guided Bomb",
+      "abbreviation": "LGB",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "雷射導引炸彈是現代空戰的關鍵。",
+        "english": "Laser-Guided Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air061",
+      "chinese": "GPS導引炸彈",
+      "english": "GPS-Guided Bomb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "GPS導引炸彈是現代空戰的關鍵。",
+        "english": "GPS-Guided Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air062",
+      "chinese": "集束炸彈",
+      "english": "Cluster Bomb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "集束炸彈是現代空戰的關鍵。",
+        "english": "Cluster Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air063",
+      "chinese": "燃燒彈",
+      "english": "Incendiary Bomb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "燃燒彈是現代空戰的關鍵。",
+        "english": "Incendiary Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air064",
+      "chinese": "核彈",
+      "english": "Nuclear Bomb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "核彈是現代空戰的關鍵。",
+        "english": "Nuclear Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air065",
+      "chinese": "氫彈",
+      "english": "Hydrogen Bomb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "氫彈是現代空戰的關鍵。",
+        "english": "Hydrogen Bomb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air066",
+      "chinese": "深水炸彈",
+      "english": "Depth Charge",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "深水炸彈是現代空戰的關鍵。",
+        "english": "Depth Charge is key to modern air combat."
+      }
+    },
+    {
+      "id": "air067",
+      "chinese": "機砲",
+      "english": "Cannon",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機砲是現代空戰的關鍵。",
+        "english": "Cannon is key to modern air combat."
+      }
+    },
+    {
+      "id": "air068",
+      "chinese": "機槍",
+      "english": "Machine Gun",
+      "abbreviation": "MG",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機槍是現代空戰的關鍵。",
+        "english": "Machine Gun is key to modern air combat."
+      }
+    },
+    {
+      "id": "air069",
+      "chinese": "機關槍",
+      "english": "Autocannon",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "機關槍是現代空戰的關鍵。",
+        "english": "Autocannon is key to modern air combat."
+      }
+    },
+    {
+      "id": "air070",
+      "chinese": "迴旋機砲",
+      "english": "Rotary Cannon",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "迴旋機砲是現代空戰的關鍵。",
+        "english": "Rotary Cannon is key to modern air combat."
+      }
+    },
+    {
+      "id": "air071",
+      "chinese": "火箭彈",
+      "english": "Rocket",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "火箭彈是現代空戰的關鍵。",
+        "english": "Rocket is key to modern air combat."
+      }
+    },
+    {
+      "id": "air072",
+      "chinese": "空對地火箭",
+      "english": "Air-to-Ground Rocket",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空對地火箭是現代空戰的關鍵。",
+        "english": "Air-to-Ground Rocket is key to modern air combat."
+      }
+    },
+    {
+      "id": "air073",
+      "chinese": "火箭發射器",
+      "english": "Rocket Pod",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "weapon",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "火箭發射器是現代空戰的關鍵。",
+        "english": "Rocket Pod is key to modern air combat."
+      }
+    },
+    {
+      "id": "air074",
+      "chinese": "引擎",
+      "english": "Engine",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "引擎是現代空戰的關鍵。",
+        "english": "Engine is key to modern air combat."
+      }
+    },
+    {
+      "id": "air075",
+      "chinese": "噴射引擎",
+      "english": "Jet Engine",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "噴射引擎是現代空戰的關鍵。",
+        "english": "Jet Engine is key to modern air combat."
+      }
+    },
+    {
+      "id": "air076",
+      "chinese": "渦輪引擎",
+      "english": "Turbine",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "渦輪引擎是現代空戰的關鍵。",
+        "english": "Turbine is key to modern air combat."
+      }
+    },
+    {
+      "id": "air077",
+      "chinese": "推進器",
+      "english": "Thruster",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "推進器是現代空戰的關鍵。",
+        "english": "Thruster is key to modern air combat."
+      }
+    },
+    {
+      "id": "air078",
+      "chinese": "機翼",
+      "english": "Wing",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機翼是現代空戰的關鍵。",
+        "english": "Wing is key to modern air combat."
+      }
+    },
+    {
+      "id": "air079",
+      "chinese": "機身",
+      "english": "Fuselage",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "機身是現代空戰的關鍵。",
+        "english": "Fuselage is key to modern air combat."
+      }
+    },
+    {
+      "id": "air080",
+      "chinese": "機尾",
+      "english": "Tail",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機尾是現代空戰的關鍵。",
+        "english": "Tail is key to modern air combat."
+      }
+    },
+    {
+      "id": "air081",
+      "chinese": "垂直尾翼",
+      "english": "Vertical Stabilizer",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "垂直尾翼是現代空戰的關鍵。",
+        "english": "Vertical Stabilizer is key to modern air combat."
+      }
+    },
+    {
+      "id": "air082",
+      "chinese": "水平尾翼",
+      "english": "Horizontal Stabilizer",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "水平尾翼是現代空戰的關鍵。",
+        "english": "Horizontal Stabilizer is key to modern air combat."
+      }
+    },
+    {
+      "id": "air083",
+      "chinese": "副翼",
+      "english": "Aileron",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "副翼是現代空戰的關鍵。",
+        "english": "Aileron is key to modern air combat."
+      }
+    },
+    {
+      "id": "air084",
+      "chinese": "升降舵",
+      "english": "Elevator",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "升降舵是現代空戰的關鍵。",
+        "english": "Elevator is key to modern air combat."
+      }
+    },
+    {
+      "id": "air085",
+      "chinese": "方向舵",
+      "english": "Rudder",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "方向舵是現代空戰的關鍵。",
+        "english": "Rudder is key to modern air combat."
+      }
+    },
+    {
+      "id": "air086",
+      "chinese": "襟翼",
+      "english": "Flap",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "襟翼是現代空戰的關鍵。",
+        "english": "Flap is key to modern air combat."
+      }
+    },
+    {
+      "id": "air087",
+      "chinese": "起落架",
+      "english": "Landing Gear",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "起落架是現代空戰的關鍵。",
+        "english": "Landing Gear is key to modern air combat."
+      }
+    },
+    {
+      "id": "air088",
+      "chinese": "駕駛艙",
+      "english": "Cockpit",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "駕駛艙是現代空戰的關鍵。",
+        "english": "Cockpit is key to modern air combat."
+      }
+    },
+    {
+      "id": "air089",
+      "chinese": "座艙",
+      "english": "Canopy",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "座艙是現代空戰的關鍵。",
+        "english": "Canopy is key to modern air combat."
+      }
+    },
+    {
+      "id": "air090",
+      "chinese": "彈射座椅",
+      "english": "Ejection Seat",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "彈射座椅是現代空戰的關鍵。",
+        "english": "Ejection Seat is key to modern air combat."
+      }
+    },
+    {
+      "id": "air091",
+      "chinese": "雷達",
+      "english": "Radar",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "雷達是現代空戰的關鍵。",
+        "english": "Radar is key to modern air combat."
+      }
+    },
+    {
+      "id": "air092",
+      "chinese": "火控雷達",
+      "english": "Fire Control Radar",
+      "abbreviation": "FCR",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "火控雷達是現代空戰的關鍵。",
+        "english": "Fire Control Radar is key to modern air combat."
+      }
+    },
+    {
+      "id": "air093",
+      "chinese": "搜索雷達",
+      "english": "Search Radar",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "搜索雷達是現代空戰的關鍵。",
+        "english": "Search Radar is key to modern air combat."
+      }
+    },
+    {
+      "id": "air094",
+      "chinese": "地形跟蹤雷達",
+      "english": "Terrain-Following Radar",
+      "abbreviation": "TFR",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "地形跟蹤雷達是現代空戰的關鍵。",
+        "english": "Terrain-Following Radar is key to modern air combat."
+      }
+    },
+    {
+      "id": "air095",
+      "chinese": "電子戰系統",
+      "english": "Electronic Warfare System",
+      "abbreviation": "EW",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "電子戰系統是現代空戰的關鍵。",
+        "english": "Electronic Warfare System is key to modern air combat."
+      }
+    },
+    {
+      "id": "air096",
+      "chinese": "雷達警告接收器",
+      "english": "Radar Warning Receiver",
+      "abbreviation": "RWR",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "雷達警告接收器是現代空戰的關鍵。",
+        "english": "Radar Warning Receiver is key to modern air combat."
+      }
+    },
+    {
+      "id": "air097",
+      "chinese": "干擾器",
+      "english": "Jammer",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "干擾器是現代空戰的關鍵。",
+        "english": "Jammer is key to modern air combat."
+      }
+    },
+    {
+      "id": "air098",
+      "chinese": "誘餌發射器",
+      "english": "Chaff Dispenser",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "誘餌發射器是現代空戰的關鍵。",
+        "english": "Chaff Dispenser is key to modern air combat."
+      }
+    },
+    {
+      "id": "air099",
+      "chinese": "紅外線誘餌",
+      "english": "Flare",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "紅外線誘餌是現代空戰的關鍵。",
+        "english": "Flare is key to modern air combat."
+      }
+    },
+    {
+      "id": "air100",
+      "chinese": "瞄準系統",
+      "english": "Targeting System",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "瞄準系統是現代空戰的關鍵。",
+        "english": "Targeting System is key to modern air combat."
+      }
+    },
+    {
+      "id": "air101",
+      "chinese": "頭盔瞄準具",
+      "english": "Helmet-Mounted Sight",
+      "abbreviation": "HMS",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "頭盔瞄準具是現代空戰的關鍵。",
+        "english": "Helmet-Mounted Sight is key to modern air combat."
+      }
+    },
+    {
+      "id": "air102",
+      "chinese": "抬頭顯示器",
+      "english": "Head-Up Display",
+      "abbreviation": "HUD",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "抬頭顯示器是現代空戰的關鍵。",
+        "english": "Head-Up Display is key to modern air combat."
+      }
+    },
+    {
+      "id": "air103",
+      "chinese": "多功能顯示器",
+      "english": "Multi-Function Display",
+      "abbreviation": "MFD",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "多功能顯示器是現代空戰的關鍵。",
+        "english": "Multi-Function Display is key to modern air combat."
+      }
+    },
+    {
+      "id": "air104",
+      "chinese": "導航系統",
+      "english": "Navigation System",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "導航系統是現代空戰的關鍵。",
+        "english": "Navigation System is key to modern air combat."
+      }
+    },
+    {
+      "id": "air105",
+      "chinese": "GPS",
+      "english": "Global Positioning System",
+      "abbreviation": "GPS",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "GPS是現代空戰的關鍵。",
+        "english": "Global Positioning System is key to modern air combat."
+      }
+    },
+    {
+      "id": "air106",
+      "chinese": "慣性導航",
+      "english": "Inertial Navigation",
+      "abbreviation": "INS",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "慣性導航是現代空戰的關鍵。",
+        "english": "Inertial Navigation is key to modern air combat."
+      }
+    },
+    {
+      "id": "air107",
+      "chinese": "自動駕駛",
+      "english": "Autopilot",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "system",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "自動駕駛是現代空戰的關鍵。",
+        "english": "Autopilot is key to modern air combat."
+      }
+    },
+    {
+      "id": "air108",
+      "chinese": "飛行員",
+      "english": "Pilot",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "飛行員是現代空戰的關鍵。",
+        "english": "Pilot is key to modern air combat."
+      }
+    },
+    {
+      "id": "air109",
+      "chinese": "王牌飛行員",
+      "english": "Ace",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "王牌飛行員是現代空戰的關鍵。",
+        "english": "Ace is key to modern air combat."
+      }
+    },
+    {
+      "id": "air110",
+      "chinese": "副駕駛",
+      "english": "Co-Pilot",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "副駕駛是現代空戰的關鍵。",
+        "english": "Co-Pilot is key to modern air combat."
+      }
+    },
+    {
+      "id": "air111",
+      "chinese": "導航員",
+      "english": "Navigator",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "導航員是現代空戰的關鍵。",
+        "english": "Navigator is key to modern air combat."
+      }
+    },
+    {
+      "id": "air112",
+      "chinese": "武器官",
+      "english": "Weapon System Officer",
+      "abbreviation": "WSO",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "武器官是現代空戰的關鍵。",
+        "english": "Weapon System Officer is key to modern air combat."
+      }
+    },
+    {
+      "id": "air113",
+      "chinese": "機組人員",
+      "english": "Aircrew",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機組人員是現代空戰的關鍵。",
+        "english": "Aircrew is key to modern air combat."
+      }
+    },
+    {
+      "id": "air114",
+      "chinese": "地勤人員",
+      "english": "Ground Crew",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "地勤人員是現代空戰的關鍵。",
+        "english": "Ground Crew is key to modern air combat."
+      }
+    },
+    {
+      "id": "air115",
+      "chinese": "維修人員",
+      "english": "Maintenance Crew",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "personnel",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "維修人員是現代空戰的關鍵。",
+        "english": "Maintenance Crew is key to modern air combat."
+      }
+    },
+    {
+      "id": "air116",
+      "chinese": "起飛",
+      "english": "Takeoff",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "起飛是現代空戰的關鍵。",
+        "english": "Takeoff is key to modern air combat."
+      }
+    },
+    {
+      "id": "air117",
+      "chinese": "降落",
+      "english": "Landing",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "降落是現代空戰的關鍵。",
+        "english": "Landing is key to modern air combat."
+      }
+    },
+    {
+      "id": "air118",
+      "chinese": "著陸",
+      "english": "Touch Down",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "著陸是現代空戰的關鍵。",
+        "english": "Touch Down is key to modern air combat."
+      }
+    },
+    {
+      "id": "air119",
+      "chinese": "盤旋",
+      "english": "Circle",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "盤旋是現代空戰的關鍵。",
+        "english": "Circle is key to modern air combat."
+      }
+    },
+    {
+      "id": "air120",
+      "chinese": "爬升",
+      "english": "Climb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "爬升是現代空戰的關鍵。",
+        "english": "Climb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air121",
+      "chinese": "俯衝",
+      "english": "Dive",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "俯衝是現代空戰的關鍵。",
+        "english": "Dive is key to modern air combat."
+      }
+    },
+    {
+      "id": "air122",
+      "chinese": "滾轉",
+      "english": "Roll",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "滾轉是現代空戰的關鍵。",
+        "english": "Roll is key to modern air combat."
+      }
+    },
+    {
+      "id": "air123",
+      "chinese": "迴轉",
+      "english": "Turn",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "迴轉是現代空戰的關鍵。",
+        "english": "Turn is key to modern air combat."
+      }
+    },
+    {
+      "id": "air124",
+      "chinese": "迴避",
+      "english": "Evade",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "迴避是現代空戰的關鍵。",
+        "english": "Evade is key to modern air combat."
+      }
+    },
+    {
+      "id": "air125",
+      "chinese": "追擊",
+      "english": "Pursuit",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "追擊是現代空戰的關鍵。",
+        "english": "Pursuit is key to modern air combat."
+      }
+    },
+    {
+      "id": "air126",
+      "chinese": "纏鬥",
+      "english": "Dogfight",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "纏鬥是現代空戰的關鍵。",
+        "english": "Dogfight is key to modern air combat."
+      }
+    },
+    {
+      "id": "air127",
+      "chinese": "空中加油",
+      "english": "Aerial Refueling",
+      "abbreviation": "AAR",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空中加油是現代空戰的關鍵。",
+        "english": "Aerial Refueling is key to modern air combat."
+      }
+    },
+    {
+      "id": "air128",
+      "chinese": "編隊飛行",
+      "english": "Formation Flight",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "編隊飛行是現代空戰的關鍵。",
+        "english": "Formation Flight is key to modern air combat."
+      }
+    },
+    {
+      "id": "air129",
+      "chinese": "巡航",
+      "english": "Cruise",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "巡航是現代空戰的關鍵。",
+        "english": "Cruise is key to modern air combat."
+      }
+    },
+    {
+      "id": "air130",
+      "chinese": "巡邏",
+      "english": "Patrol",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "巡邏是現代空戰的關鍵。",
+        "english": "Patrol is key to modern air combat."
+      }
+    },
+    {
+      "id": "air131",
+      "chinese": "偵察",
+      "english": "Reconnaissance",
+      "abbreviation": "RECON",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "偵察是現代空戰的關鍵。",
+        "english": "Reconnaissance is key to modern air combat."
+      }
+    },
+    {
+      "id": "air132",
+      "chinese": "轟炸",
+      "english": "Bombing",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "轟炸是現代空戰的關鍵。",
+        "english": "Bombing is key to modern air combat."
+      }
+    },
+    {
+      "id": "air133",
+      "chinese": "投彈",
+      "english": "Bomb Drop",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "投彈是現代空戰的關鍵。",
+        "english": "Bomb Drop is key to modern air combat."
+      }
+    },
+    {
+      "id": "air134",
+      "chinese": "掃射",
+      "english": "Strafe",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "掃射是現代空戰的關鍵。",
+        "english": "Strafe is key to modern air combat."
+      }
+    },
+    {
+      "id": "air135",
+      "chinese": "空襲",
+      "english": "Air Strike",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "空襲是現代空戰的關鍵。",
+        "english": "Air Strike is key to modern air combat."
+      }
+    },
+    {
+      "id": "air136",
+      "chinese": "空中支援",
+      "english": "Air Support",
+      "abbreviation": "AS",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "空中支援是現代空戰的關鍵。",
+        "english": "Air Support is key to modern air combat."
+      }
+    },
+    {
+      "id": "air137",
+      "chinese": "近距空中支援",
+      "english": "Close Air Support",
+      "abbreviation": "CAS",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "近距空中支援是現代空戰的關鍵。",
+        "english": "Close Air Support is key to modern air combat."
+      }
+    },
+    {
+      "id": "air138",
+      "chinese": "空中攔截",
+      "english": "Air Intercept",
+      "abbreviation": "AI",
+      "category": "airforce",
+      "subcategory": "operation",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空中攔截是現代空戰的關鍵。",
+        "english": "Air Intercept is key to modern air combat."
+      }
+    },
+    {
+      "id": "air139",
+      "chinese": "空中優勢",
+      "english": "Air Superiority",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "空中優勢是現代空戰的關鍵。",
+        "english": "Air Superiority is key to modern air combat."
+      }
+    },
+    {
+      "id": "air140",
+      "chinese": "制空權",
+      "english": "Air Supremacy",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "tactical",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "制空權是現代空戰的關鍵。",
+        "english": "Air Supremacy is key to modern air combat."
+      }
+    },
+    {
+      "id": "air141",
+      "chinese": "高度",
+      "english": "Altitude",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "高度是現代空戰的關鍵。",
+        "english": "Altitude is key to modern air combat."
+      }
+    },
+    {
+      "id": "air142",
+      "chinese": "速度",
+      "english": "Speed",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "速度是現代空戰的關鍵。",
+        "english": "Speed is key to modern air combat."
+      }
+    },
+    {
+      "id": "air143",
+      "chinese": "音速",
+      "english": "Speed of Sound",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "音速是現代空戰的關鍵。",
+        "english": "Speed of Sound is key to modern air combat."
+      }
+    },
+    {
+      "id": "air144",
+      "chinese": "超音速",
+      "english": "Supersonic",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "超音速是現代空戰的關鍵。",
+        "english": "Supersonic is key to modern air combat."
+      }
+    },
+    {
+      "id": "air145",
+      "chinese": "亞音速",
+      "english": "Subsonic",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "亞音速是現代空戰的關鍵。",
+        "english": "Subsonic is key to modern air combat."
+      }
+    },
+    {
+      "id": "air146",
+      "chinese": "馬赫",
+      "english": "Mach",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "馬赫是現代空戰的關鍵。",
+        "english": "Mach is key to modern air combat."
+      }
+    },
+    {
+      "id": "air147",
+      "chinese": "航程",
+      "english": "Range",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "航程是現代空戰的關鍵。",
+        "english": "Range is key to modern air combat."
+      }
+    },
+    {
+      "id": "air148",
+      "chinese": "續航力",
+      "english": "Endurance",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "續航力是現代空戰的關鍵。",
+        "english": "Endurance is key to modern air combat."
+      }
+    },
+    {
+      "id": "air149",
+      "chinese": "升限",
+      "english": "Ceiling",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "升限是現代空戰的關鍵。",
+        "english": "Ceiling is key to modern air combat."
+      }
+    },
+    {
+      "id": "air150",
+      "chinese": "爬升率",
+      "english": "Rate of Climb",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "爬升率是現代空戰的關鍵。",
+        "english": "Rate of Climb is key to modern air combat."
+      }
+    },
+    {
+      "id": "air151",
+      "chinese": "G力",
+      "english": "G-Force",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "parameter",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "G力是現代空戰的關鍵。",
+        "english": "G-Force is key to modern air combat."
+      }
+    },
+    {
+      "id": "air152",
+      "chinese": "機場",
+      "english": "Airfield",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機場是現代空戰的關鍵。",
+        "english": "Airfield is key to modern air combat."
+      }
+    },
+    {
+      "id": "air153",
+      "chinese": "空軍基地",
+      "english": "Air Base",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "空軍基地是現代空戰的關鍵。",
+        "english": "Air Base is key to modern air combat."
+      }
+    },
+    {
+      "id": "air154",
+      "chinese": "跑道",
+      "english": "Runway",
+      "abbreviation": "RWY",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "跑道是現代空戰的關鍵。",
+        "english": "Runway is key to modern air combat."
+      }
+    },
+    {
+      "id": "air155",
+      "chinese": "滑行道",
+      "english": "Taxiway",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "滑行道是現代空戰的關鍵。",
+        "english": "Taxiway is key to modern air combat."
+      }
+    },
+    {
+      "id": "air156",
+      "chinese": "停機坪",
+      "english": "Apron",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "停機坪是現代空戰的關鍵。",
+        "english": "Apron is key to modern air combat."
+      }
+    },
+    {
+      "id": "air157",
+      "chinese": "機庫",
+      "english": "Hangar",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "機庫是現代空戰的關鍵。",
+        "english": "Hangar is key to modern air combat."
+      }
+    },
+    {
+      "id": "air158",
+      "chinese": "塔台",
+      "english": "Control Tower",
+      "abbreviation": "",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 1,
+      "examples": {
+        "chinese": "塔台是現代空戰的關鍵。",
+        "english": "Control Tower is key to modern air combat."
+      }
+    },
+    {
+      "id": "air159",
+      "chinese": "航管",
+      "english": "Air Traffic Control",
+      "abbreviation": "ATC",
+      "category": "airforce",
+      "subcategory": "facility",
+      "difficulty": 2,
+      "examples": {
+        "chinese": "航管是現代空戰的關鍵。",
+        "english": "Air Traffic Control is key to modern air combat."
       }
     }
   ]
