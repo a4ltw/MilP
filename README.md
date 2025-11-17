@@ -1,5 +1,13 @@
 # 軍事口譯詞彙學習系統 (Military Vocabulary Learning Platform)
 
+## 🌐 線上使用
+
+立即訪問：**[https://a4ltw.github.io/MilP/](https://a4ltw.github.io/MilP/)**
+
+> 無需安裝，開啟即用！支援手機、平板、電腦。
+
+---
+
 ## 📋 專案簡介
 
 這是一個專為軍事口譯面試準備設計的詞彙學習系統，涵蓋陸軍、海軍、空軍及通用軍事術語，支援中英雙向學習。
