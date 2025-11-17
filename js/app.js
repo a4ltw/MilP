@@ -371,10 +371,16 @@ class VocabApp {
         this.userProgress.mastered = this.userProgress.mastered.filter(id => id !== item.id);
         this.saveProgress();
 
-        // Add brief delay before showing next card to avoid seeing the answer
+        // Flip card back to front if it's showing the answer
+        const flashcard = document.getElementById('flashcard');
+        if (flashcard.classList.contains('flipped')) {
+            flashcard.classList.remove('flipped');
+        }
+
+        // Wait for flip animation (600ms) + buffer (300ms) before showing next card
         setTimeout(() => {
             this.nextCard();
-        }, 400);
+        }, 900);
     }
 
     markMastered() {
@@ -386,10 +392,16 @@ class VocabApp {
         this.userProgress.needReview = this.userProgress.needReview.filter(id => id !== item.id);
         this.saveProgress();
 
-        // Add brief delay before showing next card to avoid seeing the answer
+        // Flip card back to front if it's showing the answer
+        const flashcard = document.getElementById('flashcard');
+        if (flashcard.classList.contains('flipped')) {
+            flashcard.classList.remove('flipped');
+        }
+
+        // Wait for flip animation (600ms) + buffer (300ms) before showing next card
         setTimeout(() => {
             this.nextCard();
-        }, 400);
+        }, 900);
     }
 
     nextCard() {
@@ -398,10 +410,16 @@ class VocabApp {
     }
 
     nextCardWithDelay() {
-        // Add brief delay before showing next card to avoid seeing the answer
+        // Flip card back to front if it's showing the answer
+        const flashcard = document.getElementById('flashcard');
+        if (flashcard.classList.contains('flipped')) {
+            flashcard.classList.remove('flipped');
+        }
+
+        // Wait for flip animation (600ms) + buffer (300ms) before showing next card
         setTimeout(() => {
             this.nextCard();
-        }, 400);
+        }, 900);
     }
 
     completeLearn() {
