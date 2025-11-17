@@ -77,6 +77,9 @@ class VocabApp {
         document.getElementById('btn-mastered').addEventListener('click', () => this.markMastered());
         document.getElementById('restart-learn').addEventListener('click', () => this.startLearning());
 
+        // Keyboard shortcuts for flashcards
+        document.addEventListener('keydown', (e) => this.handleKeyboardShortcut(e));
+
         // Quiz Tab
         document.getElementById('quiz-mode-ch-en').addEventListener('click', () => this.setQuizMode('ch-en'));
         document.getElementById('quiz-mode-en-ch').addEventListener('click', () => this.setQuizMode('en-ch'));
@@ -89,6 +92,39 @@ class VocabApp {
         // Progress Tab
         document.getElementById('reset-progress').addEventListener('click', () => this.resetProgress());
         document.getElementById('export-progress').addEventListener('click', () => this.exportProgress());
+    }
+
+    handleKeyboardShortcut(e) {
+        // Only handle shortcuts when flashcard container is visible
+        const flashcardContainer = document.getElementById('flashcard-container');
+        if (!flashcardContainer || flashcardContainer.style.display === 'none') {
+            return;
+        }
+
+        // Ignore if user is typing in an input field
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
+            return;
+        }
+
+        switch(e.key) {
+            case '1':
+                e.preventDefault();
+                this.markNeedReview();
+                break;
+            case '2':
+                e.preventDefault();
+                this.nextCard();
+                break;
+            case '3':
+                e.preventDefault();
+                this.markMastered();
+                break;
+            case ' ':
+            case 'Enter':
+                e.preventDefault();
+                this.flipCard();
+                break;
+        }
     }
 
     switchTab(tabName) {

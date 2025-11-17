@@ -390,6 +390,18 @@ select:focus {
     justify-content: center;
 }
 
+/* Keyboard Shortcut Keys */
+.shortcut-key {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 8px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: 700;
+    opacity: 0.9;
+}
+
 /* Buttons */
 .btn-primary,
 .btn-secondary,
