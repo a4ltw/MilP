@@ -73,7 +73,7 @@ class VocabApp {
         document.getElementById('exit-learn').addEventListener('click', () => this.exitLearning());
         document.getElementById('flashcard').addEventListener('click', () => this.flipCard());
         document.getElementById('btn-need-review').addEventListener('click', () => this.markNeedReview());
-        document.getElementById('btn-next').addEventListener('click', () => this.nextCard());
+        document.getElementById('btn-next').addEventListener('click', () => this.nextCardWithDelay());
         document.getElementById('btn-mastered').addEventListener('click', () => this.markMastered());
         document.getElementById('restart-learn').addEventListener('click', () => this.startLearning());
 
@@ -125,7 +125,7 @@ class VocabApp {
                     break;
                 case '2':
                     e.preventDefault();
-                    this.nextCard();
+                    this.nextCardWithDelay();
                     break;
                 case '3':
                     e.preventDefault();
@@ -370,7 +370,11 @@ class VocabApp {
         // Remove from mastered if it was there
         this.userProgress.mastered = this.userProgress.mastered.filter(id => id !== item.id);
         this.saveProgress();
-        this.nextCard();
+
+        // Add brief delay before showing next card to avoid seeing the answer
+        setTimeout(() => {
+            this.nextCard();
+        }, 400);
     }
 
     markMastered() {
@@ -381,12 +385,23 @@ class VocabApp {
         // Remove from review if it was there
         this.userProgress.needReview = this.userProgress.needReview.filter(id => id !== item.id);
         this.saveProgress();
-        this.nextCard();
+
+        // Add brief delay before showing next card to avoid seeing the answer
+        setTimeout(() => {
+            this.nextCard();
+        }, 400);
     }
 
     nextCard() {
         this.currentLearnIndex++;
         this.showCard();
+    }
+
+    nextCardWithDelay() {
+        // Add brief delay before showing next card to avoid seeing the answer
+        setTimeout(() => {
+            this.nextCard();
+        }, 400);
     }
 
     completeLearn() {
